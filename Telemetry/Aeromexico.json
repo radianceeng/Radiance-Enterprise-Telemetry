@@ -1,0 +1,96 @@
+{
+    "schema_version": "2.0",
+    "customer": "Aeromexico",
+    "records": [
+        {
+            "invoice": "50138-2026",
+            "description": "Aeromexico Pallets & Net Repair qty 40",
+            "amount": 4065.4,
+            "invoice_date": "2026-01-13",
+            "location": "QRO",
+            "category": "Repairs",
+            "product": "Nets",
+            "repair_quantity": 40
+        },
+        {
+            "invoice": "50138-2026",
+            "description": "Aeromexico Pallets & Net Repair qty 40",
+            "amount": 10123.4,
+            "invoice_date": "2026-01-13",
+            "location": "QRO",
+            "category": "Repairs",
+            "product": "Pallets",
+            "repair_quantity": 40
+        },
+        {
+            "invoice": "50139-2026",
+            "description": "Aeromexico Amsafe Nets revision of 24000756",
+            "amount": 50800.0,
+            "invoice_date": "2026-01-14",
+            "location": "QRO",
+            "category": "Distribution",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50140-2026",
+            "description": "Aeromexico Lashing Line revision of 25000007",
+            "amount": 12600.0,
+            "invoice_date": "2026-01-14",
+            "location": "QRO",
+            "category": "Distribution",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50229-2026",
+            "description": "Aeromexico Nets qty 200 ",
+            "amount": 29350.0,
+            "invoice_date": "2026-02-23",
+            "location": "QRO",
+            "category": "Distribution",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50230-2026",
+            "description": "Aeromexico Pallets qty 20",
+            "amount": 7094.4,
+            "invoice_date": "2026-02-27",
+            "location": "QRO",
+            "category": "Distribution",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50385-2026",
+            "description": "RAD MFG | Aeromexico PLA Nets qty 10",
+            "amount": 2050.0,
+            "invoice_date": "2026-03-25",
+            "location": "QRO",
+            "category": "MFG",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50402-2026",
+            "description": "RAD MRO QRO | Aeromexico qty 20 pallets & nets",
+            "amount": 5323.4,
+            "invoice_date": "2026-03-27",
+            "location": "QRO",
+            "category": "Repairs",
+            "product": "Pallet",
+            "repair_quantity": 20
+        },
+        {
+            "invoice": "50402-2026",
+            "description": "RAD MRO QRO | Aeromexico qty 20 pallets & nets",
+            "amount": 1771.0,
+            "invoice_date": "2026-03-27",
+            "location": "QRO",
+            "category": "Repairs",
+            "product": "Nets",
+            "repair_quantity": 20
+        }
+    ]
+}

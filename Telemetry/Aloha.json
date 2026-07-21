@@ -1,0 +1,26 @@
+{
+    "schema_version": "2.0",
+    "customer": "Aloha",
+    "records": [
+        {
+            "invoice": "50324-2026",
+            "description": "ULDM INV#24000915, Cust. PO-1064836",
+            "amount": 9622.64,
+            "invoice_date": "2026-03-04",
+            "location": "LAX",
+            "category": "Distribution",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50366-2026",
+            "description": "ULDM INV#24000940, Cust. PO-1064836",
+            "amount": 5287.76,
+            "invoice_date": "2026-03-17",
+            "location": "LAX",
+            "category": "Distribution",
+            "product": "",
+            "repair_quantity": 0
+        }
+    ]
+}

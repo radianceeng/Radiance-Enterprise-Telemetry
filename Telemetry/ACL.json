@@ -1,0 +1,36 @@
+{
+    "schema_version": "2.0",
+    "customer": "ACL",
+    "records": [
+        {
+            "invoice": "50112-2026",
+            "description": "ULDM INV#24000823, Cust. PO-13655",
+            "amount": 892.5,
+            "invoice_date": "2026-01-02",
+            "location": "LAX",
+            "category": "Distribution",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50178-2026",
+            "description": "ULDM INV#24000847, Cust. PO-14045",
+            "amount": 657.3,
+            "invoice_date": "2026-01-28",
+            "location": "LAX",
+            "category": "Distribution",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50340-2026",
+            "description": "ULDM INV#24000924, Cust. PO-14045",
+            "amount": 478.3,
+            "invoice_date": "2026-03-11",
+            "location": "LAX",
+            "category": "Distribution",
+            "product": "",
+            "repair_quantity": 0
+        }
+    ]
+}

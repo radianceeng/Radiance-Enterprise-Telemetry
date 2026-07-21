@@ -1,0 +1,996 @@
+{
+    "schema_version": "2.0",
+    "customer": "UPS",
+    "records": [
+        {
+            "invoice": "50118-2026",
+            "description": "UPS Containers Week ending 4 JANTake 1(LB 5, ONT 0, SDF20 , MIA 0)",
+            "amount": 10741.62,
+            "invoice_date": "2026-01-04",
+            "location": "SDF",
+            "category": "Repairs",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50118-2026",
+            "description": "UPS Containers Week ending 4 JANTake 1(LB 5, ONT 0, SDF20 , MIA 0)",
+            "amount": 1193.51,
+            "invoice_date": "2026-01-04",
+            "location": "LAX",
+            "category": "Repairs",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50119-2026",
+            "description": "UPS Pallets Week ending 4 JAN (LB , ONT 0, SDF , MIA 36 )",
+            "amount": 5422.5,
+            "invoice_date": "2026-01-04",
+            "location": "MIA",
+            "category": "Repairs",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50126-2026",
+            "description": "UPS Nets Week ending 11 Jan(LB 46, ONT 0, SDF 0, MIA 0)",
+            "amount": 3703.5,
+            "invoice_date": "2026-01-11",
+            "location": "LAX",
+            "category": "Repairs",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50127-2026",
+            "description": "UPS Containers Week ending 11 JANTake 1(LB27 , ONT 0, SDF , MIA 9)",
+            "amount": 15802.34,
+            "invoice_date": "2026-01-11",
+            "location": "LAX",
+            "category": "Repairs",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50127-2026",
+            "description": "UPS Containers Week ending 11 JANTake 1(LB27 , ONT 0, SDF , MIA 9)",
+            "amount": 5659.0,
+            "invoice_date": "2026-01-11",
+            "location": "MIA",
+            "category": "Repairs",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50128-2026",
+            "description": "UPS Containers Week ending 11 JANTake 1(LB , ONT 0, SDF50 , MIA )",
+            "amount": 22531.25,
+            "invoice_date": "2026-01-11",
+            "location": "SDF",
+            "category": "Repairs",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50129-2026",
+            "description": "UPS Containers Week ending 11 JANTake 1(LB , ONT 0, SDF51 , MIA )",
+            "amount": 22981.88,
+            "invoice_date": "2026-01-11",
+            "location": "SDF",
+            "category": "Repairs",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50131-2026",
+            "description": "UPS Pallets Week ending 11 JAN Take 1(LB , ONT 0, SDF , MIA 21 Pallets)",
+            "amount": 3163.12,
+            "invoice_date": "2026-01-11",
+            "location": "MIA",
+            "category": "Repairs",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50133-2026",
+            "description": "UPS Containers Week ending 11 JANTake 1(LB19 , ONT 0, SDF , MIA )",
+            "amount": 11118.85,
+            "invoice_date": "2026-01-11",
+            "location": "LAX",
+            "category": "Repairs",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50134-2026",
+            "description": "UPS Containers Week ending 11 JANTake 1(LB , ONT 0, SDF15 , MIA )",
+            "amount": 6759.38,
+            "invoice_date": "2026-01-11",
+            "location": "SDF",
+            "category": "Repairs",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50153-2026",
+            "description": "UPS Containers Week ending 16 JANTake 1(LB 7, ONT 0, SDF , MIA8 )",
+            "amount": 3522.6,
+            "invoice_date": "2026-01-16",
+            "location": "LAX",
+            "category": "Repairs",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50153-2026",
+            "description": "UPS Containers Week ending 16 JANTake 1(LB 7, ONT 0, SDF , MIA8 )",
+            "amount": 4305.4,
+            "invoice_date": "2026-01-16",
+            "location": "MIA",
+            "category": "Repairs",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50154-2026",
+            "description": "UPS Containers Week ending 16 JANTake 1(LB , ONT 0, SDF48 , MIA )",
+            "amount": 18300.53,
+            "invoice_date": "2026-01-16",
+            "location": "SDF",
+            "category": "Repairs",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50155-2026",
+            "description": "UPS Containers Week ending 16 JANTake 1(LB , ONT 0, SDF 44, MIA )",
+            "amount": 16698.88,
+            "invoice_date": "2026-01-16",
+            "location": "SDF",
+            "category": "Repairs",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50170-2026",
+            "description": "UPS Containers Week ending 25 Jan Take 1(LB 14 , ONT 0, SDF 20 , MIA10 )",
+            "amount": 3429.0,
+            "invoice_date": "2026-01-25",
+            "location": "SDF",
+            "category": "Repairs",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50170-2026",
+            "description": "UPS Containers Week ending 25 Jan Take 1(LB 14 , ONT 0, SDF 20 , MIA10 )",
+            "amount": 7160.5,
+            "invoice_date": "2026-01-25",
+            "location": "LAX",
+            "category": "Repairs",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50170-2026",
+            "description": "UPS Containers Week ending 25 Jan Take 1(LB 14 , ONT 0, SDF 20 , MIA10 )",
+            "amount": 5248.22,
+            "invoice_date": "2026-01-25",
+            "location": "MIA",
+            "category": "Repairs",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50171-2026",
+            "description": "UPS Containers Week ending 25 Jan Take 1(LB  , ONT 0, SDF 48 , MIA )",
+            "amount": 21693.95,
+            "invoice_date": "2026-01-25",
+            "location": "SDF",
+            "category": "Repairs",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50174-2026",
+            "description": "UPS Pallets Week ending 25 JANT (LB , ONT 0, SDF , MIA 18)",
+            "amount": 2711.25,
+            "invoice_date": "2026-01-25",
+            "location": "MIA",
+            "category": "Repairs",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50194-2026",
+            "description": "UPS Containers Week ending 30 Jan Take 1(LB  , ONT 0, 60 SDF  , MIA )",
+            "amount": 21551.48,
+            "invoice_date": "2026-01-30",
+            "location": "SDF",
+            "category": "Repairs",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50195-2026",
+            "description": "UPS Containers Week ending 30 Jan Take 1(10LB  , ONT 0,  SDF  , 5MIA )",
+            "amount": 5973.65,
+            "invoice_date": "2026-01-30",
+            "location": "LAX",
+            "category": "Repairs",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50195-2026",
+            "description": "UPS Containers Week ending 30 Jan Take 1(10LB  , ONT 0,  SDF  , 5MIA )",
+            "amount": 2560.13,
+            "invoice_date": "2026-01-30",
+            "location": "MIA",
+            "category": "Repairs",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50201-2026",
+            "description": "UPS Containers Week ending JAN 30 (LB , ONT 0, SDF , MIA 8 )",
+            "amount": 4082.15,
+            "invoice_date": "2026-01-30",
+            "location": "MIA",
+            "category": "Repairs",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50207-2026",
+            "description": "UPS scrapped units (LB34)",
+            "amount": 7376.3,
+            "invoice_date": "2026-02-06",
+            "location": "LAX",
+            "category": "Repairs",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50208-2026",
+            "description": "UPS Containers Week ending 6 JANTake 1(LB 26, ONT 0, SDF 36 , MIA 0)",
+            "amount": 11317.07,
+            "invoice_date": "2026-02-06",
+            "location": "SDF",
+            "category": "Repairs",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50208-2026",
+            "description": "UPS Containers Week ending 6 JANTake 1(LB 26, ONT 0, SDF 36 , MIA 0)",
+            "amount": 12110.28,
+            "invoice_date": "2026-02-06",
+            "location": "LAX",
+            "category": "Repairs",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50220-2026",
+            "description": "UPS Containers Week ending 8 Feb Take 1(LB 3, ONT 0, SDF16  , MIA 9)",
+            "amount": 5344.1,
+            "invoice_date": "2026-02-08",
+            "location": "SDF",
+            "category": "Repairs",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50220-2026",
+            "description": "UPS Containers Week ending 8 Feb Take 1(LB 3, ONT 0, SDF16  , MIA 9)",
+            "amount": 1478.16,
+            "invoice_date": "2026-02-08",
+            "location": "LAX",
+            "category": "Repairs",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50220-2026",
+            "description": "UPS Containers Week ending 8 Feb Take 1(LB 3, ONT 0, SDF16  , MIA 9)",
+            "amount": 4548.17,
+            "invoice_date": "2026-02-08",
+            "location": "MIA",
+            "category": "Repairs",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50221-2026",
+            "description": "UPS Containers Week ending 8 Feb Take SDF Net Repair QTY 54",
+            "amount": 4449.18,
+            "invoice_date": "2026-02-08",
+            "location": "SDF",
+            "category": "Repairs",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50225-2026",
+            "description": "UPS Containers Week ending 9Feb Take 1(LB , ONT 0, SDF 16  , MIA 5)",
+            "amount": 6401.86,
+            "invoice_date": "2026-02-09",
+            "location": "SDF",
+            "category": "Repairs",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50225-2026",
+            "description": "UPS Containers Week ending 9Feb Take 1(LB , ONT 0, SDF 16  , MIA 5)",
+            "amount": 1600.47,
+            "invoice_date": "2026-02-09",
+            "location": "MIA",
+            "category": "Repairs",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50231-2026",
+            "description": "UPS Nets qty 148 weekending 15-Feb",
+            "amount": 12462.12,
+            "invoice_date": "2026-02-13",
+            "location": "LAX",
+            "category": "Repairs",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50235-2026",
+            "description": "UPS Containers Week ending 11Feb Take 1(LB , ONT 13, SDF 29 , MIA5 )",
+            "amount": 9822.0,
+            "invoice_date": "2026-02-11",
+            "location": "SDF",
+            "category": "Repairs",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50235-2026",
+            "description": "UPS Containers Week ending 11Feb Take 1(LB , ONT 13, SDF 29 , MIA5 )",
+            "amount": 4849.0,
+            "invoice_date": "2026-02-11",
+            "location": "LAX",
+            "category": "Repairs",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50235-2026",
+            "description": "UPS Containers Week ending 11Feb Take 1(LB , ONT 13, SDF 29 , MIA5 )",
+            "amount": 2506.83,
+            "invoice_date": "2026-02-11",
+            "location": "MIA",
+            "category": "Repairs",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50243-2026",
+            "description": "UPS Containers Week ending 12Feb Take 1(LB , ONT 0, SDF 16  , MIA )",
+            "amount": 6138.8,
+            "invoice_date": "2026-02-12",
+            "location": "SDF",
+            "category": "Repairs",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50250-2026",
+            "description": "UPS Containers Week ending 13Feb Take 1(LB 12, ONT 5, SDF12   , MIA5 )",
+            "amount": 4091.0,
+            "invoice_date": "2026-02-13",
+            "location": "SDF",
+            "category": "Repairs",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50250-2026",
+            "description": "UPS Containers Week ending 13Feb Take 1(LB 12, ONT 5, SDF 12  , MIA5 )",
+            "amount": 1889.0,
+            "invoice_date": "2026-02-13",
+            "location": "LAX",
+            "category": "Repairs",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50250-2026",
+            "description": "UPS Containers Week ending 13Feb Take 1(LB 12, ONT 5, SDF12   , MIA5 )",
+            "amount": 2582.39,
+            "invoice_date": "2026-02-13",
+            "location": "MIA",
+            "category": "Repairs",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50252-2026",
+            "description": "UPS Containers Week ending 16Feb Take 1(LB , ONT , SDF8   , MIA )",
+            "amount": 2652.25,
+            "invoice_date": "2026-02-13",
+            "location": "SDF",
+            "category": "Repairs",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50263-2026",
+            "description": "UPS Containers Week ending 17Feb Take 1(LB , ONT , SDF24   , MIA10 )",
+            "amount": 8332.0,
+            "invoice_date": "2026-02-17",
+            "location": "SDF",
+            "category": "Repairs",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50263-2026",
+            "description": "UPS Containers Week ending 17Feb Take 1(LB , ONT , SDF24   , MIA10 )",
+            "amount": 5143.75,
+            "invoice_date": "2026-02-17",
+            "location": "MIA",
+            "category": "Repairs",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50274-2026",
+            "description": "UPS Nets qty 129 weekending 19-Feb",
+            "amount": 10628.55,
+            "invoice_date": "2026-02-19",
+            "location": "LAX",
+            "category": "Repairs",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50277-2026",
+            "description": "UPS Containers Week ending 20Feb Take 1(LB , ONT , SDF28  , MIA )",
+            "amount": 9769.55,
+            "invoice_date": "2026-02-20",
+            "location": "SDF",
+            "category": "Repairs",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50278-2026",
+            "description": "UPS Containers Week ending 20Feb Take 1( SDF  NET )",
+            "amount": 1563.26,
+            "invoice_date": "2026-02-20",
+            "location": "SDF",
+            "category": "Repairs",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50284-2026",
+            "description": "UPS Nets Week ending 24Feb Take 1( LB  NET 52qty )",
+            "amount": 4289.48,
+            "invoice_date": "2026-02-24",
+            "location": "LAX",
+            "category": "Repairs",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50288-2026",
+            "description": "UPS Containers SDF 38 scrap units (ADA)",
+            "amount": 5700.0,
+            "invoice_date": "2026-02-24",
+            "location": "SDF",
+            "category": "Repairs",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50289-2026",
+            "description": "UPS Containers Week ending 24Feb Take 1(LB5, ONT7 , SDF 12  , MIA4 )",
+            "amount": 4223.0,
+            "invoice_date": "2026-02-24",
+            "location": "SDF",
+            "category": "Repairs",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50289-2026",
+            "description": "UPS Containers Week ending 24Feb Take 1(LB5, ONT7 , SDF 12  , MIA4 )",
+            "amount": 5129.5,
+            "invoice_date": "2026-02-24",
+            "location": "LAX",
+            "category": "Repairs",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50289-2026",
+            "description": "UPS Containers Week ending 24Feb Take 1(LB5, ONT7 , SDF 12  , MIA4 )",
+            "amount": 2042.91,
+            "invoice_date": "2026-02-24",
+            "location": "MIA",
+            "category": "Repairs",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50290-2026",
+            "description": "UPS Containers LB 6 scrap units (ADA)",
+            "amount": 1301.7,
+            "invoice_date": "2026-03-01",
+            "location": "LAX",
+            "category": "Repairs",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50291-2026",
+            "description": "UPS Containers Week ending 25Feb Take 1(LB, ONT , SDF 16  , MIA10)",
+            "amount": 6450.68,
+            "invoice_date": "2026-02-25",
+            "location": "SDF",
+            "category": "Repairs",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50291-2026",
+            "description": "UPS Containers Week ending 25Feb Take 1(LB, ONT , SDF 16  , MIA10)",
+            "amount": 4300.46,
+            "invoice_date": "2026-02-25",
+            "location": "MIA",
+            "category": "Repairs",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50293-2026",
+            "description": "UPS Containers Week ending MAR 1Take 1(LB, ONT 14 , SDF 12  , MIA )",
+            "amount": 4770.57,
+            "invoice_date": "2026-02-27",
+            "location": "SDF",
+            "category": "Repairs",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50293-2026",
+            "description": "UPS Containers Week ending MAR 1Take 1(LB, ONT 14 , SDF 12  , MIA )",
+            "amount": 4770.57,
+            "invoice_date": "2026-02-27",
+            "location": "LAX",
+            "category": "Repairs",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50294-2026",
+            "description": "UPS Pallets Week ending MAR 1Take 1(LB, ONT , SDF  , MIA 12 pallets  )",
+            "amount": 1653.0,
+            "invoice_date": "2026-02-27",
+            "location": "MIA",
+            "category": "Repairs",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50301-2026",
+            "description": "UPS Containers Week ending Feb22 Take 1(LB16,(Units which were missed to invoice in February.)",
+            "amount": 7748.4,
+            "invoice_date": "2026-03-08",
+            "location": "LAX",
+            "category": "Repairs",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50319-2026",
+            "description": "UPS Containers Week ending MAR 08Take 1(LB5 , ONT 0, SDF 7 , MIA5 )",
+            "amount": 3758.99,
+            "invoice_date": "2026-03-02",
+            "location": "SDF",
+            "category": "Repairs",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50319-2026",
+            "description": "UPS Containers Week ending MAR 08Take 1(LB5 , ONT 0, SDF 7 , MIA5 )",
+            "amount": 3758.99,
+            "invoice_date": "2026-03-02",
+            "location": "MIA",
+            "category": "Repairs",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50321-2026",
+            "description": "UPS Pallets Week ending MAR 08Take ( MIA Pallets 23  )",
+            "amount": 3464.38,
+            "invoice_date": "2026-03-08",
+            "location": "MIA",
+            "category": "Repairs",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50322-2026",
+            "description": "UPS Containers Week ending MAR 08Take 1(LB 5 , ONT 3, SDF 12, MIA 14)",
+            "amount": 5242.93,
+            "invoice_date": "2026-03-08",
+            "location": "SDF",
+            "category": "Repairs",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50322-2026",
+            "description": "UPS Containers Week ending MAR 08Take 1(LB 5 , ONT 3, SDF 12, MIA 14)",
+            "amount": 5991.92,
+            "invoice_date": "2026-03-08",
+            "location": "MIA",
+            "category": "Repairs",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50322-2026",
+            "description": "UPS Containers Week ending MAR 08Take 1(LB 5 , ONT 3, SDF 12, MIA 14)",
+            "amount": 3744.95,
+            "invoice_date": "2026-03-08",
+            "location": "LAX",
+            "category": "Repairs",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50327-2026",
+            "description": "UPS Containers Week ending MAR 08Take 1(LB 5 , ONT 6 , SDF 16 , MIA 5)",
+            "amount": 9064.41,
+            "invoice_date": "2026-03-05",
+            "location": "SDF",
+            "category": "Repairs",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50327-2026",
+            "description": "UPS Containers Week ending MAR 08Take 1(LB 5 , ONT 6 , SDF 16 , MIA 5)",
+            "amount": 2589.83,
+            "invoice_date": "2026-03-05",
+            "location": "MIA",
+            "category": "Repairs",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50327-2026",
+            "description": "UPS Containers Week ending MAR 08Take 1(LB 5 , ONT 6 , SDF 16 , MIA 5)",
+            "amount": 1294.92,
+            "invoice_date": "2026-03-05",
+            "location": "LAX",
+            "category": "Repairs",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50328-2026",
+            "description": "UPS Nets (LB 72 Satco)",
+            "amount": 5922.52,
+            "invoice_date": "2026-03-05",
+            "location": "LAX",
+            "category": "Repairs",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50331-2026",
+            "description": "UPS Containers Week ending MAR 15Take 1(LB   , ONT5 , SDF23 , MIA 0)",
+            "amount": 13921.45,
+            "invoice_date": "2026-03-08",
+            "location": "SDF",
+            "category": "Repairs",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50331-2026",
+            "description": "UPS Containers Week ending MAR 15Take 1(LB   , ONT5 , SDF23 , MIA 0)",
+            "amount": 1546.83,
+            "invoice_date": "2026-03-08",
+            "location": "LAX",
+            "category": "Repairs",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50332-2026",
+            "description": "UPS PalletsWeek ending MAR 15Take 1( SDF 24 Pallets)",
+            "amount": 3090.0,
+            "invoice_date": "2026-03-15",
+            "location": "SDF",
+            "category": "Repairs",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50333-2026",
+            "description": "UPS PalletsWeek ending MAR 15Take 1((LB  3 , ONT6 , SDf 8 , MIA 0)",
+            "amount": 2953.08,
+            "invoice_date": "2026-03-15",
+            "location": "SDF",
+            "category": "Repairs",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50333-2026",
+            "description": "UPS PalletsWeek ending MAR 15Take 1((LB  3 , ONT6 , SDf 8 , MIA 0)",
+            "amount": 3609.31,
+            "invoice_date": "2026-03-15",
+            "location": "LAX",
+            "category": "Repairs",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50341-2026",
+            "description": "RAD MRO | UPS conatiners Week ending MAR 15Take 1((LB 5 , ONT3 , SDf 8 , MIA 5)",
+            "amount": 3555.15,
+            "invoice_date": "2026-03-15",
+            "location": "SDF",
+            "category": "Repairs",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50341-2026",
+            "description": "RAD MRO | UPS conatiners Week ending MAR 15Take 1((LB 5 , ONT3 , SDf 8 , MIA 5)",
+            "amount": 3555.15,
+            "invoice_date": "2026-03-15",
+            "location": "LAX",
+            "category": "Repairs",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50341-2026",
+            "description": "RAD MRO | UPS conatiners Week ending MAR 15Take 1((LB 5 , ONT3 , SDf 8 , MIA 5)",
+            "amount": 1777.57,
+            "invoice_date": "2026-03-15",
+            "location": "MIA",
+            "category": "Repairs",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50357-2026",
+            "description": "RAD MRO | UPS Containers Week ending MAR 15Take 1(LB , ONT 7, SDF 20 , MIA10 ) sent as 50337",
+            "amount": 8203.34,
+            "invoice_date": "2026-03-15",
+            "location": "SDF",
+            "category": "Repairs",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50357-2026",
+            "description": "RAD MRO | UPS Containers Week ending MAR 15Take 1(LB , ONT 7, SDF 20 , MIA10 ) sent as 50337",
+            "amount": 2983.03,
+            "invoice_date": "2026-03-15",
+            "location": "LAX",
+            "category": "Repairs",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50357-2026",
+            "description": "RAD MRO | UPS Containers Week ending MAR 15Take 1(LB , ONT 7, SDF 20 , MIA10 ) sent as 50337",
+            "amount": 3728.79,
+            "invoice_date": "2026-03-15",
+            "location": "MIA",
+            "category": "Repairs",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50358-2026",
+            "description": "RAD MRO | UPS Nets qty 71 weekending 15-Mar long beach  ",
+            "amount": 5839.77,
+            "invoice_date": "2026-03-15",
+            "location": "LAX",
+            "category": "Repairs",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50364-2026",
+            "description": "RAD MRO | UPS Containers Week ending MAR 22Take 1(LB  0 , ONT 12 , SDF 36 , MIA 5 )",
+            "amount": 14018.05,
+            "invoice_date": "2026-03-18",
+            "location": "SDF",
+            "category": "Repairs",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50364-2026",
+            "description": "RAD MRO | UPS Containers Week ending MAR 22Take 1(LB  0 , ONT 12 , SDF 36 , MIA 5 )",
+            "amount": 4005.16,
+            "invoice_date": "2026-03-18",
+            "location": "LAX",
+            "category": "Repairs",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50364-2026",
+            "description": "RAD MRO | UPS Containers Week ending MAR 22Take 1(LB  0 , ONT 12 , SDF 36 , MIA 5 )",
+            "amount": 2002.58,
+            "invoice_date": "2026-03-18",
+            "location": "MIA",
+            "category": "Repairs",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50379-2026",
+            "description": "UPS Containers Week ending MAR 22Take 1(LB  3 , ONT9  , SDF 20 MIA 15)",
+            "amount": 8462.42,
+            "invoice_date": "2026-03-20",
+            "location": "SDF",
+            "category": "Repairs",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50379-2026",
+            "description": "UPS Containers Week ending MAR 22Take 1(LB  3 , ONT9  , SDF 20 MIA 15)",
+            "amount": 4634.18,
+            "invoice_date": "2026-03-20",
+            "location": "LAX",
+            "category": "Repairs",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50379-2026",
+            "description": "UPS Containers Week ending MAR 22Take 1(LB  3 , ONT9  , SDF 20 MIA 15)",
+            "amount": 7052.02,
+            "invoice_date": "2026-03-20",
+            "location": "MIA",
+            "category": "Repairs",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50386-2026",
+            "description": "UPS Nets (LB 88)",
+            "amount": 7237.67,
+            "invoice_date": "2026-03-22",
+            "location": "LAX",
+            "category": "Repairs",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50390-2026",
+            "description": "UPS Containers Week ending MAR 29Take 1(LB 0  , ONT 2 , SDF24 , MIA 15 )",
+            "amount": 8665.31,
+            "invoice_date": "2026-03-29",
+            "location": "SDF",
+            "category": "Repairs",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50390-2026",
+            "description": "UPS Containers Week ending MAR 29Take 1(LB 0  , ONT 2 , SDF24 , MIA 15 )",
+            "amount": 693.22,
+            "invoice_date": "2026-03-29",
+            "location": "LAX",
+            "category": "Repairs",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50390-2026",
+            "description": "UPS Containers Week ending MAR 29Take 1(LB 0  , ONT 2 , SDF24 , MIA 15 )",
+            "amount": 7972.09,
+            "invoice_date": "2026-03-29",
+            "location": "MIA",
+            "category": "Repairs",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50392-2026",
+            "description": "UPS Nets delivered 3/25 (LB 50)",
+            "amount": 4112.78,
+            "invoice_date": "2026-03-29",
+            "location": "LAX",
+            "category": "Repairs",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50399-2026",
+            "description": "UPS Containers Week ending MAR 29 Take 2(LB 10 , ONT 0 , SDF 24 , MIA 4 )",
+            "amount": 11119.33,
+            "invoice_date": "2026-03-29",
+            "location": "SDF",
+            "category": "Repairs",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50399-2026",
+            "description": "UPS Containers Week ending MAR 29 Take 2(LB 10 , ONT 0 , SDF 24 , MIA 4 )",
+            "amount": 2462.52,
+            "invoice_date": "2026-03-29",
+            "location": "LAX",
+            "category": "Repairs",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50399-2026",
+            "description": "UPS Containers Week ending MAR 29 Take 2(LB 10 , ONT 0 , SDF 24 , MIA 4 )",
+            "amount": 2302.91,
+            "invoice_date": "2026-03-29",
+            "location": "MIA",
+            "category": "Repairs",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50404-2026",
+            "description": "UPS Containers Week ending MAR 29 Take 2(LB4  , ONT 0 , SDF 14, MIA 0)",
+            "amount": 5343.14,
+            "invoice_date": "2026-03-29",
+            "location": "SDF",
+            "category": "Repairs",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50404-2026",
+            "description": "UPS Containers Week ending MAR 29 Take 2(LB4  , ONT 0 , SDF 14, MIA 0)",
+            "amount": 1781.05,
+            "invoice_date": "2026-03-29",
+            "location": "LAX",
+            "category": "Repairs",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50405-2026",
+            "description": "UPS Containers Week ending MAR 29 Take 2(Pallets , LB 16, MIA 17 )",
+            "amount": 2189.08,
+            "invoice_date": "2026-03-29",
+            "location": "LAX",
+            "category": "Repairs",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50405-2026",
+            "description": "UPS Containers Week ending MAR 29 Take 2(Pallets , LB 16, MIA 17 )",
+            "amount": 2675.55,
+            "invoice_date": "2026-03-29",
+            "location": "MIA",
+            "category": "Repairs",
+            "product": "",
+            "repair_quantity": 0
+        }
+    ]
+}

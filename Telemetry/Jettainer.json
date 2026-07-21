@@ -1,0 +1,336 @@
+{
+    "schema_version": "2.0",
+    "customer": "Jettainer",
+    "records": [
+        {
+            "invoice": "50120-2026",
+            "description": "Jettainer MIA QT Transportation (16 QT Drop Off)",
+            "amount": 400.0,
+            "invoice_date": "2025-12-24",
+            "location": "MIA",
+            "category": "Non-Repairs",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50121-2026",
+            "description": "Jettainer  invoice for LAX QT 17",
+            "amount": 1516.35,
+            "invoice_date": "2026-01-03",
+            "location": "LAX",
+            "category": "Repairs",
+            "product": "Pallets",
+            "repair_quantity": 17
+        },
+        {
+            "invoice": "50130-2026",
+            "description": "Jettainer MIA QT Transportation (25 QT pick up)",
+            "amount": 275.0,
+            "invoice_date": "2026-01-11",
+            "location": "MIA",
+            "category": "Non-Repairs",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50132-2026",
+            "description": "Jettainer MIA QT Repair",
+            "amount": 5141.7,
+            "invoice_date": "2026-01-11",
+            "location": "MIA",
+            "category": "Repairs",
+            "product": "Pallets",
+            "repair_quantity": 31
+        },
+        {
+            "invoice": "50135-2026",
+            "description": "Jettainer LAX QT Transportation (19 QT Drop Off) (sent as 50135-2025)",
+            "amount": 250.0,
+            "invoice_date": "",
+            "location": "LAX",
+            "category": "Non-Repairs",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50136-2026",
+            "description": "Jettainer LAX QT Transportation (28QT Pick up) (sent as 50136-2025)",
+            "amount": 250.0,
+            "invoice_date": "",
+            "location": "LAX",
+            "category": "Non-Repairs",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50137-2026",
+            "description": "Jettainer JFK QT Transportation (2QT Pick up)",
+            "amount": 150.0,
+            "invoice_date": "2026-01-07",
+            "location": "JFK",
+            "category": "Non-Repairs",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50156-2026",
+            "description": "Jettainer MIA QT 26 Repair",
+            "amount": 2910.34,
+            "invoice_date": "2026-01-16",
+            "location": "MIA",
+            "category": "Repairs",
+            "product": "Pallets",
+            "repair_quantity": 26
+        },
+        {
+            "invoice": "50157-2026",
+            "description": "Jettainer MIA QT Transportation (46 QT Drop Off & Pick up)",
+            "amount": 400.0,
+            "invoice_date": "2026-01-16",
+            "location": "MIA",
+            "category": "Non-Repairs",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50172-2026",
+            "description": "Jettainer Import Costs | MEDUH9157999- CNTR# TXGU6786153",
+            "amount": 18082.63,
+            "invoice_date": "2026-01-27",
+            "location": "LAX",
+            "category": "Non-Repairs",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50173-2026",
+            "description": "Jettainer MIA  20 QT  Repair",
+            "amount": 2476.0,
+            "invoice_date": "2026-01-25",
+            "location": "MIA",
+            "category": "Repairs",
+            "product": "Pallets",
+            "repair_quantity": 20
+        },
+        {
+            "invoice": "50176-2026",
+            "description": "Jettainer Import Costs | MEDUH9157999- CNTR# TXGU6786153",
+            "amount": 5282.24,
+            "invoice_date": "2026-01-28",
+            "location": "LAX",
+            "category": "Non-Repairs",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50197-2026",
+            "description": "Jettainer MIA QT Repair",
+            "amount": 4560.61,
+            "invoice_date": "2026-02-01",
+            "location": "MIA",
+            "category": "Repairs",
+            "product": "Pallets",
+            "repair_quantity": 29
+        },
+        {
+            "invoice": "50198-2026",
+            "description": "Jettainer MIA QT Transportation (37 QT  Pick up)",
+            "amount": 400.0,
+            "invoice_date": "2026-01-19",
+            "location": "MIA",
+            "category": "Non-Repairs",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50199-2026",
+            "description": "Jettainer MIA QT Transportation (23QT  Pick up)",
+            "amount": 275.0,
+            "invoice_date": "2026-01-23",
+            "location": "MIA",
+            "category": "Non-Repairs",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50200-2026",
+            "description": "Jettainer MIA QT Transportation (10QT  Pick up)",
+            "amount": 275.0,
+            "invoice_date": "2026-01-27",
+            "location": "MIA",
+            "category": "Non-Repairs",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50222-2026",
+            "description": "Jettainer MIA QT 57 Repair",
+            "amount": 6984.83,
+            "invoice_date": "2026-02-05",
+            "location": "MIA",
+            "category": "Repairs",
+            "product": "Pallets",
+            "repair_quantity": 57
+        },
+        {
+            "invoice": "50228-2026",
+            "description": "Jettainer Import Costs | HBL#TXGMIARC465/懷霖/US-2512033 - IMO-25120113",
+            "amount": 17913.81,
+            "invoice_date": "2026-02-10",
+            "location": "LAX",
+            "category": "Non-Repairs",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50251-2026",
+            "description": "Jettainer MIA QT 27 Repair",
+            "amount": 3198.33,
+            "invoice_date": "2026-02-13",
+            "location": "MIA",
+            "category": "Repairs",
+            "product": "Pallets",
+            "repair_quantity": 27
+        },
+        {
+            "invoice": "50279-2026",
+            "description": "Jettainer MIA QT 39 Repair",
+            "amount": 6056.89,
+            "invoice_date": "2026-02-20",
+            "location": "MIA",
+            "category": "Repairs",
+            "product": "Pallets",
+            "repair_quantity": 39
+        },
+        {
+            "invoice": "50282-2026",
+            "description": "Jettainer Delivery |CNTR#GAOU6047393 //ISF DATA// HBL#SLCTTXGMIARC465 /MBL# ZI | MUTPE8267471 -- SN# 6254992722\nHBL#TXGMIARC465/懷霖/US-2512033 - IMO-25120113 ",
+            "amount": 1250.34,
+            "invoice_date": "2026-02-23",
+            "location": "LAX",
+            "category": "Non-Repairs",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50283-2026",
+            "description": "Jettainer  LAX QT  Repair",
+            "amount": 2151.75,
+            "invoice_date": "2026-02-17",
+            "location": "LAX",
+            "category": "Repairs",
+            "product": "Pallets",
+            "repair_quantity": 22
+        },
+        {
+            "invoice": "50285-2026",
+            "description": "Jettainer MIA QT Transportation ( 42 QT  Drop off)",
+            "amount": 400.0,
+            "invoice_date": "2026-02-13",
+            "location": "MIA",
+            "category": "Non-Repairs",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50295-2026",
+            "description": "Jettainer MIA QT 37 Repair",
+            "amount": 6181.3,
+            "invoice_date": "2026-03-01",
+            "location": "MIA",
+            "category": "Repairs",
+            "product": "Pallets",
+            "repair_quantity": 37
+        },
+        {
+            "invoice": "50329-2026",
+            "description": "Jettainer MIA QT 21 Repair",
+            "amount": 3179.22,
+            "invoice_date": "2026-03-05",
+            "location": "MIA",
+            "category": "Repairs",
+            "product": "Pallet",
+            "repair_quantity": 21
+        },
+        {
+            "invoice": "50359-2026",
+            "description": "RAD MRO |Jettainer MIA QT 21 Repair",
+            "amount": 4332.28,
+            "invoice_date": "2026-03-15",
+            "location": "MIA",
+            "category": "Repairs",
+            "product": "Pallet",
+            "repair_quantity": 21
+        },
+        {
+            "invoice": "50360-2026",
+            "description": "RAD MRO | Jettainer MIA QT Transportation (71 QT pick up & Delivered )",
+            "amount": 400.0,
+            "invoice_date": "2026-03-15",
+            "location": "MIA",
+            "category": "Non-Repairs",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50361-2026",
+            "description": "RAD MRO | Jettainer MIA QT Transportation  21 DROP OFF ",
+            "amount": 275.0,
+            "invoice_date": "2026-03-15",
+            "location": "MIA",
+            "category": "Non-Repairs",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50362-2026",
+            "description": "RAD MRO | Jettainer MIA QT Transportation  29",
+            "amount": 275.0,
+            "invoice_date": "2026-03-15",
+            "location": "MIA",
+            "category": "Non-Repairs",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50387-2026",
+            "description": "Jettainer Pallets LAX qty 7",
+            "amount": 877.05,
+            "invoice_date": "2026-03-25",
+            "location": "LAX",
+            "category": "Repairs",
+            "product": "Pallet",
+            "repair_quantity": 7
+        },
+        {
+            "invoice": "50395-2026",
+            "description": "RAD MRO|Jettainer MIA QT 33  Repair",
+            "amount": 5758.59,
+            "invoice_date": "2026-03-29",
+            "location": "MIA",
+            "category": "Repairs",
+            "product": "Pallet",
+            "repair_quantity": 33
+        },
+        {
+            "invoice": "50401-2026",
+            "description": "Jettainer JFK QT Transportation  JUpick up",
+            "amount": 100.0,
+            "invoice_date": "2026-03-11",
+            "location": "JFK",
+            "category": "Non-Repairs",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50403-2026",
+            "description": "RAD MRO|Jettainer MIA QT 65  Repair",
+            "amount": 6718.39,
+            "invoice_date": "2026-03-29",
+            "location": "MIA",
+            "category": "Repairs",
+            "product": "Pallet",
+            "repair_quantity": 65
+        }
+    ]
+}

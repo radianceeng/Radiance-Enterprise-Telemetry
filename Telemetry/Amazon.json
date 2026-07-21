@@ -1,0 +1,26 @@
+{
+    "schema_version": "2.0",
+    "customer": "Amazon",
+    "records": [
+        {
+            "invoice": "50330-2026",
+            "description": "Amazon Storage Invoice (PO# 2D-19303838, invoice # for amazon 503302026)",
+            "amount": 84435.0,
+            "invoice_date": "2025-03-06",
+            "location": "DFW",
+            "category": "Non-Repairs",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50330-2026",
+            "description": "Amazon Storage Invoice (PO# 2D-19303838, invoice # for amazon 503302026)",
+            "amount": 84435.0,
+            "invoice_date": "2025-03-06",
+            "location": "CVG",
+            "category": "Non-Repairs",
+            "product": "",
+            "repair_quantity": 0
+        }
+    ]
+}

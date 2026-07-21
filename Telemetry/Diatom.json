@@ -1,0 +1,466 @@
+{
+    "schema_version": "2.0",
+    "customer": "Diatom",
+    "records": [
+        {
+            "invoice": "50113-2026",
+            "description": "ULDM INV#24000824, Cust. PO-A25001085",
+            "amount": 249.32,
+            "invoice_date": "2026-01-02",
+            "location": "LAX",
+            "category": "Distribution",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50114-2026",
+            "description": "ULDM INV#24000825, Cust. PO-A2500102",
+            "amount": 249.32,
+            "invoice_date": "2026-01-02",
+            "location": "LAX",
+            "category": "Distribution",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50115-2026",
+            "description": "ULDM INV#24000826, Cust. PO-2500058",
+            "amount": 25.79,
+            "invoice_date": "2026-01-02",
+            "location": "LAX",
+            "category": "Distribution",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50116-2026",
+            "description": "ULDM INV#24000827, Cust. PO-2500026",
+            "amount": 77.37,
+            "invoice_date": "2026-01-02",
+            "location": "LAX",
+            "category": "Distribution",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50117-2026",
+            "description": "ULDM INV#24000828, Cust. PO-2500042",
+            "amount": 4301.79,
+            "invoice_date": "2026-01-02",
+            "location": "LAX",
+            "category": "Distribution",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50159-2026",
+            "description": "ULDM INV#24000840, Cust. PO-2500058",
+            "amount": 203.91,
+            "invoice_date": "2026-01-22",
+            "location": "LAX",
+            "category": "Distribution",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50160-2026",
+            "description": "ULDM INV#24000841, Cust. PO-A2500102",
+            "amount": 2111.65,
+            "invoice_date": "2026-01-22",
+            "location": "LAX",
+            "category": "Distribution",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50161-2026",
+            "description": "ULDM INV#24000842, Cust. PO-A2600003",
+            "amount": 6207.5,
+            "invoice_date": "2026-01-22",
+            "location": "LAX",
+            "category": "Distribution",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50162-2026",
+            "description": "ULDM INV#24000843, Cust. PO-A2500102",
+            "amount": 4264.98,
+            "invoice_date": "2026-01-22",
+            "location": "LAX",
+            "category": "Distribution",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50163-2026",
+            "description": "ULDM INV#24000844, Cust. PO-2500058",
+            "amount": 17778.79,
+            "invoice_date": "2026-01-22",
+            "location": "LAX",
+            "category": "Distribution",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50164-2026",
+            "description": "ULDM INV#24000845, Cust. PO-A2500084",
+            "amount": 4943.84,
+            "invoice_date": "2026-01-22",
+            "location": "LAX",
+            "category": "Distribution",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50165-2026",
+            "description": "ULDM INV#24000846, Cust. PO-A2500102",
+            "amount": 2112.2,
+            "invoice_date": "2026-01-22",
+            "location": "LAX",
+            "category": "Distribution",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50209-2026",
+            "description": "ULDM INV#24000865, Cust. PO-2500042",
+            "amount": 1115.1,
+            "invoice_date": "2026-02-05",
+            "location": "LAX",
+            "category": "Distribution",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50210-2026",
+            "description": "ULDM INV#24000866, Cust. PO-2500058",
+            "amount": 1051.58,
+            "invoice_date": "2026-02-05",
+            "location": "LAX",
+            "category": "Distribution",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50211-2026",
+            "description": "ULDM INV#24000867, Cust. PO-2500058",
+            "amount": 630.89,
+            "invoice_date": "2026-02-05",
+            "location": "LAX",
+            "category": "Distribution",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50212-2026",
+            "description": "ULDM INV#24000868, Cust. PO-A2600003",
+            "amount": 255.57,
+            "invoice_date": "2026-02-05",
+            "location": "LAX",
+            "category": "Distribution",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50213-2026",
+            "description": "ULDM INV#24000869, Cust. PO-A2600018",
+            "amount": 3112.45,
+            "invoice_date": "2026-02-05",
+            "location": "LAX",
+            "category": "Distribution",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50214-2026",
+            "description": "ULDM INV#24000870, Cust. PO-A260018",
+            "amount": 90.25,
+            "invoice_date": "2026-02-05",
+            "location": "LAX",
+            "category": "Distribution",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50215-2026",
+            "description": "ULDM INV#24000871, Cust. PO-A2500069",
+            "amount": 3141.24,
+            "invoice_date": "2026-02-05",
+            "location": "LAX",
+            "category": "Distribution",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50216-2026",
+            "description": "ULDM INV#24000872, Cust. PO-A2500084",
+            "amount": 653.75,
+            "invoice_date": "2026-02-05",
+            "location": "LAX",
+            "category": "Distribution",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50253-2026",
+            "description": "ULDM INV#24000888, Cust. PO-2500058",
+            "amount": 60.7,
+            "invoice_date": "2026-02-16",
+            "location": "LAX",
+            "category": "Distribution",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50254-2026",
+            "description": "ULDM INV#24000889, Cust. PO-A2500102",
+            "amount": 358.0,
+            "invoice_date": "2026-02-16",
+            "location": "LAX",
+            "category": "Distribution",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50255-2026",
+            "description": "ULDM INV#24000890, Cust. PO-A2600003",
+            "amount": 796.4,
+            "invoice_date": "2026-02-16",
+            "location": "LAX",
+            "category": "Distribution",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50256-2026",
+            "description": "ULDM INV#24000891, Cust. PO-2500058",
+            "amount": 2588.25,
+            "invoice_date": "2026-02-16",
+            "location": "LAX",
+            "category": "Distribution",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50257-2026",
+            "description": "ULDM INV#24000892, Cust. PO-A2500084",
+            "amount": 2692.73,
+            "invoice_date": "2026-02-16",
+            "location": "LAX",
+            "category": "Distribution",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50258-2026",
+            "description": "ULDM INV#24000893, Cust. PO-A2500096",
+            "amount": 4542.52,
+            "invoice_date": "2026-02-16",
+            "location": "LAX",
+            "category": "Distribution",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50259-2026",
+            "description": "ULDM INV#24000894, Cust, PO-A2600003",
+            "amount": 1044.61,
+            "invoice_date": "2026-02-16",
+            "location": "LAX",
+            "category": "Distribution",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50260-2026",
+            "description": "ULDM INV#24000895, Cust. PO-A2500102",
+            "amount": 34476.19,
+            "invoice_date": "2026-02-16",
+            "location": "LAX",
+            "category": "Distribution",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50261-2026",
+            "description": "ULDM INV#24000896, Cust. PO-A2500102",
+            "amount": 47825.8,
+            "invoice_date": "2026-02-16",
+            "location": "LAX",
+            "category": "Distribution",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50262-2026",
+            "description": "ULDM INV#24000897, Cust. PO-A2600015",
+            "amount": 136.01,
+            "invoice_date": "2026-02-16",
+            "location": "LAX",
+            "category": "Distribution",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50342-2026",
+            "description": "ULDM INV#24000925, Cust. PO-2500058",
+            "amount": 1679.73,
+            "invoice_date": "2026-03-12",
+            "location": "LAX",
+            "category": "Distribution",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50343-2026",
+            "description": "ULDM INV#24000926, Cust. PO-A2500102",
+            "amount": 1109.8,
+            "invoice_date": "2026-03-12",
+            "location": "LAX",
+            "category": "Distribution",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50344-2026",
+            "description": "ULDM INV#24000927, Cust. PO-A2600018",
+            "amount": 1543.55,
+            "invoice_date": "2026-03-12",
+            "location": "LAX",
+            "category": "Distribution",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50345-2026",
+            "description": "ULDM INV#24000928, Cust. PO-2500026",
+            "amount": 409.29,
+            "invoice_date": "2026-03-12",
+            "location": "LAX",
+            "category": "Distribution",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50346-2026",
+            "description": "ULDM INV#24000929, Cust. PO-2500058",
+            "amount": 1594.35,
+            "invoice_date": "2026-03-12",
+            "location": "LAX",
+            "category": "Distribution",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50347-2026",
+            "description": "ULDM INV#24000930, Cust. PO-A2500102",
+            "amount": 1526.62,
+            "invoice_date": "2026-03-12",
+            "location": "LAX",
+            "category": "Distribution",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50348-2026",
+            "description": "ULDM INV#24000931, Cust. PO-A2600003",
+            "amount": 108.6,
+            "invoice_date": "2026-03-12",
+            "location": "LAX",
+            "category": "Distribution",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50349-2026",
+            "description": "ULDM INV#24000932, Cust. PO-A2600034",
+            "amount": 5007.62,
+            "invoice_date": "2026-03-12",
+            "location": "LAX",
+            "category": "Distribution",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50350-2026",
+            "description": "ULDM INV#24000933, Cust. PO-1800853",
+            "amount": 4457.96,
+            "invoice_date": "2026-03-12",
+            "location": "LAX",
+            "category": "Distribution",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50351-2026",
+            "description": "ULDM INV#24000934, Cust. PO-2500042",
+            "amount": 11144.88,
+            "invoice_date": "2026-03-12",
+            "location": "LAX",
+            "category": "Distribution",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50352-2026",
+            "description": "ULDM INV#24000935, Cust. PO-2500058",
+            "amount": 30971.03,
+            "invoice_date": "2026-03-12",
+            "location": "LAX",
+            "category": "Distribution",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50353-2026",
+            "description": "ULDM INV#24000936, Cust. PO-A2500069",
+            "amount": 667.65,
+            "invoice_date": "2026-03-12",
+            "location": "LAX",
+            "category": "Distribution",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50354-2026",
+            "description": "ULDM INV#24000937, Cust. PO-A2500084",
+            "amount": 6267.35,
+            "invoice_date": "2026-03-12",
+            "location": "LAX",
+            "category": "Distribution",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50355-2026",
+            "description": "ULDM INV#24000938, Cust. PO-A2500102",
+            "amount": 40641.68,
+            "invoice_date": "2026-03-12",
+            "location": "LAX",
+            "category": "Distribution",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50382-2026",
+            "description": "ULDM INV#24000949, Cust. PO-A2600003",
+            "amount": 238.36,
+            "invoice_date": "2026-03-20",
+            "location": "LAX",
+            "category": "Distribution",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50383-2026",
+            "description": "ULDM INV#24000950, Cust. PO-A2600029",
+            "amount": 114.22,
+            "invoice_date": "2026-03-20",
+            "location": "LAX",
+            "category": "Distribution",
+            "product": "",
+            "repair_quantity": 0
+        }
+    ]
+}

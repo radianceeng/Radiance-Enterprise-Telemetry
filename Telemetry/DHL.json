@@ -1,0 +1,86 @@
+{
+    "schema_version": "2.0",
+    "customer": "DHL",
+    "records": [
+        {
+            "invoice": "50111-2026",
+            "description": "DHL Nov Invoice (qty 20 ULDs and 0 Pallets)",
+            "amount": 2750.0,
+            "invoice_date": "2025-01-01",
+            "location": "QRO",
+            "category": "Non-Repairs",
+            "product": " ",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50111-2026",
+            "description": "DHL Nov Invoice (qty 20 ULDs and 0 Pallets)",
+            "amount": 13287.85,
+            "invoice_date": "2025-01-01",
+            "location": "QRO",
+            "category": "Repairs",
+            "product": "Containers",
+            "repair_quantity": 20
+        },
+        {
+            "invoice": "nan",
+            "description": "DHL Jan Invoice (qty 15 ULDs and 3 Pallets)",
+            "amount": 2750.0,
+            "invoice_date": "2026-02-01",
+            "location": "QRO",
+            "category": "Non-Repairs",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50219-2026",
+            "description": "DHL Jan Invoice (qty 15 ULDs and 3 Pallets)",
+            "amount": 252.27,
+            "invoice_date": "2026-02-01",
+            "location": "QRO",
+            "category": "Repairs",
+            "product": "Containers",
+            "repair_quantity": 15
+        },
+        {
+            "invoice": "50219-2026",
+            "description": "DHL Jan Invoice (qty 15 ULDs and 3 Pallets)",
+            "amount": 7954.29,
+            "invoice_date": "2026-02-01",
+            "location": "QRO",
+            "category": "Repairs",
+            "product": "Pallets",
+            "repair_quantity": 3
+        },
+        {
+            "invoice": "50317-2026",
+            "description": "DHL Feb Invoice (qty 31 ULDs and 1 Pallets)",
+            "amount": 84.9,
+            "invoice_date": "2026-03-01",
+            "location": "QRO",
+            "category": "Repairs",
+            "product": "Pallet",
+            "repair_quantity": 1
+        },
+        {
+            "invoice": "50317-2026",
+            "description": "DHL Feb Invoice (qty 31 ULDs and 1 Pallets)",
+            "amount": 2750.0,
+            "invoice_date": "2026-03-01",
+            "location": "QRO",
+            "category": "Non-Repairs",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50317-2026",
+            "description": "DHL Feb Invoice (qty 31 ULDs and 1 Pallets)",
+            "amount": 18848.8,
+            "invoice_date": "2026-03-01",
+            "location": "QRO",
+            "category": "Repairs",
+            "product": "Containers",
+            "repair_quantity": 31
+        }
+    ]
+}

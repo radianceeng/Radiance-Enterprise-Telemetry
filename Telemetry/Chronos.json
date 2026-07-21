@@ -1,0 +1,46 @@
+{
+    "schema_version": "2.0",
+    "customer": "Chronos",
+    "records": [
+        {
+            "invoice": "50145-2026",
+            "description": "ULDM INV#24000835, Cust. PO-CA7174",
+            "amount": 1336.44,
+            "invoice_date": "2026-01-14",
+            "location": "LAX",
+            "category": "Distribution",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50191-2026",
+            "description": "ULDM INV#24000858, Cust. PO-CA7516",
+            "amount": 1904.0,
+            "invoice_date": "2026-01-30",
+            "location": "LAX",
+            "category": "Distribution",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50227-2026",
+            "description": "ULDM INV#24000874, Cust. PO-CA7516",
+            "amount": 2672.88,
+            "invoice_date": "2026-02-06",
+            "location": "LAX",
+            "category": "Distribution",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50325-2026",
+            "description": "ULDM INV#24000916, Cust. PO-CA7516",
+            "amount": 668.22,
+            "invoice_date": "2026-03-04",
+            "location": "LAX",
+            "category": "Distribution",
+            "product": "",
+            "repair_quantity": 0
+        }
+    ]
+}

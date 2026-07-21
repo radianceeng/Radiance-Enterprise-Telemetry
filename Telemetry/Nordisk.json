@@ -1,0 +1,366 @@
+{
+    "schema_version": "2.0",
+    "customer": "Nordisk",
+    "records": [
+        {
+            "invoice": "50110-2026",
+            "description": "Warehouse Management (Long Beach and Louisville)",
+            "amount": 22500.0,
+            "invoice_date": "2026-01-01",
+            "location": "SDF",
+            "category": "Non-Repairs",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50122-2026",
+            "description": "ULDM INV# 25000057 Cust. PO-3002474-1. Decals Order MFG",
+            "amount": 550.0,
+            "invoice_date": "2026-01-06",
+            "location": "LAX",
+            "category": "MFG",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50123-2026",
+            "description": "UPS Assy SO 3002682 SDF qty 100 (SO Complete)",
+            "amount": 62500.0,
+            "invoice_date": "2026-01-09",
+            "location": "SDF",
+            "category": "Non-Repairs",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50124-2026",
+            "description": "UPS Assy SO 3002682 SDF Door Assembly qty 100",
+            "amount": 12000.0,
+            "invoice_date": "2026-01-09",
+            "location": "SDF",
+            "category": "Non-Repairs",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50125-2026",
+            "description": "Jettainer PMCs qty 250 & Inlay Printing",
+            "amount": 13750.0,
+            "invoice_date": "2026-01-08",
+            "location": "LAX",
+            "category": "MFG",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50151-2026",
+            "description": "UPS Assy SO 3002685 SDF qty 120 (SO Complete)",
+            "amount": 75000.0,
+            "invoice_date": "2026-01-19",
+            "location": "SDF",
+            "category": "Non-Repairs",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50152-2026",
+            "description": "UPS Assy SO 3002685 SDF Door Assembly qty 100",
+            "amount": 12000.0,
+            "invoice_date": "2026-01-19",
+            "location": "SDF",
+            "category": "Non-Repairs",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50158-2026",
+            "description": "RAD LB Nordisk Lunch",
+            "amount": 704.0,
+            "invoice_date": "2026-02-20",
+            "location": "LAX",
+            "category": "Non-Repairs",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50166-2026",
+            "description": "UPS Assy SO 3002684 SDF qty 120 (SO Complete)",
+            "amount": 75000.0,
+            "invoice_date": "2026-01-23",
+            "location": "SDF",
+            "category": "Non-Repairs",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50167-2026",
+            "description": "UPS Assy SO 3002684 SDF Door Assembly qty 120 (void invoice, new invoice is 50188)",
+            "amount": 0.0,
+            "invoice_date": "2026-01-23",
+            "location": "SDF",
+            "category": "Non-Repairs",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50168-2026",
+            "description": "UPS Assy SO 3002679 LB qty 60 (SO Complete)",
+            "amount": 38700.0,
+            "invoice_date": "2026-01-23",
+            "location": "LAX",
+            "category": "Non-Repairs",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50169-2026",
+            "description": "UPS Assy SO 3002679 LB Door Assembly qty 60",
+            "amount": 7200.0,
+            "invoice_date": "2026-01-23",
+            "location": "LAX",
+            "category": "Non-Repairs",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50175-2026",
+            "description": "ULDM INV# 25000058 Cust. PO-3002532-1 Silicone Order MFG",
+            "amount": 23.0,
+            "invoice_date": "2026-02-09",
+            "location": "LAX",
+            "category": "MFG",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50177-2026",
+            "description": "RAD MFG | PO-3002533-1 | qty 50 of PN 802588 *moved to march 26 invoice 50376-2026*",
+            "amount": 0.0,
+            "invoice_date": "",
+            "location": "LAX",
+            "category": "MFG",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50188-2026",
+            "description": "UPS Assy SO 3002684 SDF Door Assembly qty 120",
+            "amount": 14400.0,
+            "invoice_date": "2026-01-23",
+            "location": "SDF",
+            "category": "Non-Repairs",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50190-2026",
+            "description": "UPS Assy SO 3002685 SDF Door Assembly qty 20",
+            "amount": 2400.0,
+            "invoice_date": "2026-01-19",
+            "location": "SDF",
+            "category": "Non-Repairs",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50193-2026",
+            "description": "Csafe Frames delivery (Front:8 & AFT: 8) POD 01272026",
+            "amount": 1592.0,
+            "invoice_date": "2026-01-27",
+            "location": "CVG",
+            "category": "MFG",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50196-2026",
+            "description": "Cert Preparation on behalf of Nordisk (17-Nov-25 to 15-Feb-26) ",
+            "amount": 1116.5,
+            "invoice_date": "2026-01-30",
+            "location": "LAX",
+            "category": "Non-Repairs",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50218-2026",
+            "description": "Warehouse Management (Long Beach and Louisville) sent as 50281-2026",
+            "amount": 22500.0,
+            "invoice_date": "2026-02-01",
+            "location": "SDF",
+            "category": "Non-Repairs",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50224-2026",
+            "description": "AQF Demo | AMAZON DQF PROTOTYPE",
+            "amount": 2898.0,
+            "invoice_date": "2026-02-20",
+            "location": "LAX",
+            "category": "Non-Repairs",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50244-2026",
+            "description": "ULDM INV# 25000059 Cust.  PO-3002539-1 Silicone Order MFG",
+            "amount": 92.0,
+            "invoice_date": "2026-02-13",
+            "location": "LAX",
+            "category": "MFG",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50248-2026",
+            "description": "UPS Assy SO 3002686 SDF qty 120 (SO Complete)",
+            "amount": 75000.0,
+            "invoice_date": "2026-02-13",
+            "location": "SDF",
+            "category": "Non-Repairs",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50249-2026",
+            "description": "UPS Assy SO 3002686 SDF Door Assembly qty 120",
+            "amount": 14400.0,
+            "invoice_date": "2026-02-13",
+            "location": "SDF",
+            "category": "Non-Repairs",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50264-2026",
+            "description": "NCR Rework Atlas Air - Nordisk",
+            "amount": 1792.0,
+            "invoice_date": "2026-02-18",
+            "location": "LAX",
+            "category": "Non-Repairs",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50265-2026",
+            "description": "UPS Assy SO 3002687 SDF qty 120 (SO Complete)",
+            "amount": 75000.0,
+            "invoice_date": "2026-02-18",
+            "location": "SDF",
+            "category": "Non-Repairs",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50266-2026",
+            "description": "UPS Assy SO 3002687 SDF Door Assembly qty 120",
+            "amount": 14400.0,
+            "invoice_date": "2026-02-18",
+            "location": "SDF",
+            "category": "Non-Repairs",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50267-2026",
+            "description": "ULDM INV# 25000060 Cust. PO-3002538-1. Decals Order MFG",
+            "amount": 1800.0,
+            "invoice_date": "2026-02-19",
+            "location": "LAX",
+            "category": "MFG",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50273-2026",
+            "description": "Atlas Air Assy qty 3 ",
+            "amount": 2250.0,
+            "invoice_date": "2026-02-13",
+            "location": "LAX",
+            "category": "Non-Repairs",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50280-2026",
+            "description": "Cert Preparation on behalf of Nordisk (week 5, 6, 7, 8) ",
+            "amount": 2211.25,
+            "invoice_date": "2026-02-20",
+            "location": "LAX",
+            "category": "Non-Repairs",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50316-2026",
+            "description": "Warehouse Management (Long Beach and Louisville)",
+            "amount": 22500.0,
+            "invoice_date": "2026-03-01",
+            "location": "SDF",
+            "category": "Non-Repairs",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50320-2026",
+            "description": "CSafe Pallet & AmSafe Net PO# - MON1-PO-001192",
+            "amount": 85.0,
+            "invoice_date": "2026-03-30",
+            "location": "CVG",
+            "category": "MFG",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50363-2026",
+            "description": "RAD MFG | ULDM INV# 25000062 Cust.  PO-3002546-1. Decals Order MFG",
+            "amount": 4000.0,
+            "invoice_date": "2026-03-16",
+            "location": "LAX",
+            "category": "MFG",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50368-2026",
+            "description": "RAD MFG |Csafe Frames delivery (Front:8 & AFT: 8) POD 03172026",
+            "amount": 1592.0,
+            "invoice_date": "2026-03-18",
+            "location": "CVG",
+            "category": "MFG",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50376-2026",
+            "description": "ULDM INV# 25000064 Cust. PO-3002533-1. Door Cover Order MFG",
+            "amount": 3000.0,
+            "invoice_date": "2026-03-31",
+            "location": "LAX",
+            "category": "MFG",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50380-2026",
+            "description": "RAD MFG | ULDM INV#25000012, Cust. PO-3002404",
+            "amount": 744.0,
+            "invoice_date": "2026-03-23",
+            "location": "LAX",
+            "category": "MFG",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50407-2026",
+            "description": "RAD CERT Prepartion March 2026",
+            "amount": 1196.25,
+            "invoice_date": "2026-03-31",
+            "location": "LAX",
+            "category": "Non-Repairs",
+            "product": "",
+            "repair_quantity": 0
+        }
+    ]
+}

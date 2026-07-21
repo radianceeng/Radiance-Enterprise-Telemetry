@@ -1,0 +1,36 @@
+{
+    "schema_version": "2.0",
+    "customer": "Safe Tech",
+    "records": [
+        {
+            "invoice": "50186-2026",
+            "description": "ULDM INV#24000855, Cust. PO-PSM2502672",
+            "amount": 947.94,
+            "invoice_date": "2026-01-28",
+            "location": "LAX",
+            "category": "Distribution",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50187-2026",
+            "description": "ULDM INV#24000856, Cust. PO-PSM2502672",
+            "amount": 1556.89,
+            "invoice_date": "2026-01-28",
+            "location": "LAX",
+            "category": "Distribution",
+            "product": "",
+            "repair_quantity": 0
+        },
+        {
+            "invoice": "50298-2026",
+            "description": "ULDM INV#24000911, Cust. PO-PSM2502672",
+            "amount": 735.9,
+            "invoice_date": "2026-02-27",
+            "location": "LAX",
+            "category": "Distribution",
+            "product": "",
+            "repair_quantity": 0
+        }
+    ]
+}
