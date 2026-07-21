@@ -1,0 +1,346 @@
+{
+    "schema_version": "1.0",
+    "customer": "Jettainer",
+    "fields": [
+        "invoice",
+        "description",
+        "amount",
+        "invoice_date",
+        "location",
+        "category",
+        "product",
+        "repair_quantity"
+    ],
+    "records": [
+        [
+            "50120-2026",
+            "Jettainer MIA QT Transportation (16 QT Drop Off)",
+            400.0,
+            "2025-12-24",
+            "MIA",
+            "Non-Repairs",
+            "",
+            0
+        ],
+        [
+            "50121-2026",
+            "Jettainer  invoice for LAX QT 17",
+            1516.35,
+            "2026-01-03",
+            "LAX",
+            "Repairs",
+            "Pallets",
+            17
+        ],
+        [
+            "50130-2026",
+            "Jettainer MIA QT Transportation (25 QT pick up)",
+            275.0,
+            "2026-01-11",
+            "MIA",
+            "Non-Repairs",
+            "",
+            0
+        ],
+        [
+            "50132-2026",
+            "Jettainer MIA QT Repair",
+            5141.7,
+            "2026-01-11",
+            "MIA",
+            "Repairs",
+            "Pallets",
+            31
+        ],
+        [
+            "50135-2026",
+            "Jettainer LAX QT Transportation (19 QT Drop Off) (sent as 50135-2025)",
+            250.0,
+            "",
+            "LAX",
+            "Non-Repairs",
+            "",
+            0
+        ],
+        [
+            "50136-2026",
+            "Jettainer LAX QT Transportation (28QT Pick up) (sent as 50136-2025)",
+            250.0,
+            "",
+            "LAX",
+            "Non-Repairs",
+            "",
+            0
+        ],
+        [
+            "50137-2026",
+            "Jettainer JFK QT Transportation (2QT Pick up)",
+            150.0,
+            "2026-01-07",
+            "JFK",
+            "Non-Repairs",
+            "",
+            0
+        ],
+        [
+            "50156-2026",
+            "Jettainer MIA QT 26 Repair",
+            2910.34,
+            "2026-01-16",
+            "MIA",
+            "Repairs",
+            "Pallets",
+            26
+        ],
+        [
+            "50157-2026",
+            "Jettainer MIA QT Transportation (46 QT Drop Off & Pick up)",
+            400.0,
+            "2026-01-16",
+            "MIA",
+            "Non-Repairs",
+            "",
+            0
+        ],
+        [
+            "50172-2026",
+            "Jettainer Import Costs | MEDUH9157999- CNTR# TXGU6786153",
+            18082.63,
+            "2026-01-27",
+            "LAX",
+            "Non-Repairs",
+            "",
+            0
+        ],
+        [
+            "50173-2026",
+            "Jettainer MIA  20 QT  Repair",
+            2476.0,
+            "2026-01-25",
+            "MIA",
+            "Repairs",
+            "Pallets",
+            20
+        ],
+        [
+            "50176-2026",
+            "Jettainer Import Costs | MEDUH9157999- CNTR# TXGU6786153",
+            5282.24,
+            "2026-01-28",
+            "LAX",
+            "Non-Repairs",
+            "",
+            0
+        ],
+        [
+            "50197-2026",
+            "Jettainer MIA QT Repair",
+            4560.61,
+            "2026-02-01",
+            "MIA",
+            "Repairs",
+            "Pallets",
+            29
+        ],
+        [
+            "50198-2026",
+            "Jettainer MIA QT Transportation (37 QT  Pick up)",
+            400.0,
+            "2026-01-19",
+            "MIA",
+            "Non-Repairs",
+            "",
+            0
+        ],
+        [
+            "50199-2026",
+            "Jettainer MIA QT Transportation (23QT  Pick up)",
+            275.0,
+            "2026-01-23",
+            "MIA",
+            "Non-Repairs",
+            "",
+            0
+        ],
+        [
+            "50200-2026",
+            "Jettainer MIA QT Transportation (10QT  Pick up)",
+            275.0,
+            "2026-01-27",
+            "MIA",
+            "Non-Repairs",
+            "",
+            0
+        ],
+        [
+            "50222-2026",
+            "Jettainer MIA QT 57 Repair",
+            6984.83,
+            "2026-02-05",
+            "MIA",
+            "Repairs",
+            "Pallets",
+            57
+        ],
+        [
+            "50228-2026",
+            "Jettainer Import Costs | HBL#TXGMIARC465/懷霖/US-2512033 - IMO-25120113",
+            17913.81,
+            "2026-02-10",
+            "LAX",
+            "Non-Repairs",
+            "",
+            0
+        ],
+        [
+            "50251-2026",
+            "Jettainer MIA QT 27 Repair",
+            3198.33,
+            "2026-02-13",
+            "MIA",
+            "Repairs",
+            "Pallets",
+            27
+        ],
+        [
+            "50279-2026",
+            "Jettainer MIA QT 39 Repair",
+            6056.89,
+            "2026-02-20",
+            "MIA",
+            "Repairs",
+            "Pallets",
+            39
+        ],
+        [
+            "50282-2026",
+            "Jettainer Delivery |CNTR#GAOU6047393 //ISF DATA// HBL#SLCTTXGMIARC465 /MBL# ZI | MUTPE8267471 -- SN# 6254992722\nHBL#TXGMIARC465/懷霖/US-2512033 - IMO-25120113 ",
+            1250.34,
+            "2026-02-23",
+            "LAX",
+            "Non-Repairs",
+            "",
+            0
+        ],
+        [
+            "50283-2026",
+            "Jettainer  LAX QT  Repair",
+            2151.75,
+            "2026-02-17",
+            "LAX",
+            "Repairs",
+            "Pallets",
+            22
+        ],
+        [
+            "50285-2026",
+            "Jettainer MIA QT Transportation ( 42 QT  Drop off)",
+            400.0,
+            "2026-02-13",
+            "MIA",
+            "Non-Repairs",
+            "",
+            0
+        ],
+        [
+            "50295-2026",
+            "Jettainer MIA QT 37 Repair",
+            6181.3,
+            "2026-03-01",
+            "MIA",
+            "Repairs",
+            "Pallets",
+            37
+        ],
+        [
+            "50329-2026",
+            "Jettainer MIA QT 21 Repair",
+            3179.22,
+            "2026-03-05",
+            "MIA",
+            "Repairs",
+            "Pallet",
+            21
+        ],
+        [
+            "50359-2026",
+            "RAD MRO |Jettainer MIA QT 21 Repair",
+            4332.28,
+            "2026-03-15",
+            "MIA",
+            "Repairs",
+            "Pallet",
+            21
+        ],
+        [
+            "50360-2026",
+            "RAD MRO | Jettainer MIA QT Transportation (71 QT pick up & Delivered )",
+            400.0,
+            "2026-03-15",
+            "MIA",
+            "Non-Repairs",
+            "",
+            0
+        ],
+        [
+            "50361-2026",
+            "RAD MRO | Jettainer MIA QT Transportation  21 DROP OFF ",
+            275.0,
+            "2026-03-15",
+            "MIA",
+            "Non-Repairs",
+            "",
+            0
+        ],
+        [
+            "50362-2026",
+            "RAD MRO | Jettainer MIA QT Transportation  29",
+            275.0,
+            "2026-03-15",
+            "MIA",
+            "Non-Repairs",
+            "",
+            0
+        ],
+        [
+            "50387-2026",
+            "Jettainer Pallets LAX qty 7",
+            877.05,
+            "2026-03-25",
+            "LAX",
+            "Repairs",
+            "Pallet",
+            7
+        ],
+        [
+            "50395-2026",
+            "RAD MRO|Jettainer MIA QT 33  Repair",
+            5758.59,
+            "2026-03-29",
+            "MIA",
+            "Repairs",
+            "Pallet",
+            33
+        ],
+        [
+            "50401-2026",
+            "Jettainer JFK QT Transportation  JUpick up",
+            100.0,
+            "2026-03-11",
+            "JFK",
+            "Non-Repairs",
+            "",
+            0
+        ],
+        [
+            "50403-2026",
+            "RAD MRO|Jettainer MIA QT 65  Repair",
+            6718.39,
+            "2026-03-29",
+            "MIA",
+            "Repairs",
+            "Pallet",
+            65
+        ]
+    ]
+}

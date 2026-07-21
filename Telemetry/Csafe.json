@@ -1,0 +1,56 @@
+{
+    "schema_version": "1.0",
+    "customer": "Csafe",
+    "fields": [
+        "invoice",
+        "description",
+        "amount",
+        "invoice_date",
+        "location",
+        "category",
+        "product",
+        "repair_quantity"
+    ],
+    "records": [
+        [
+            "50314-2026",
+            "CSafe MON1-PO-000704 | PN 290-0008 qty 7500",
+            1910.0,
+            "2026-03-23",
+            "CVG",
+            "MFG",
+            "",
+            0
+        ],
+        [
+            "50365-2026",
+            "RAD MFG | Direct INV #25000011, Cust. PO- MON1-PO-001218",
+            1752.0,
+            "2026-03-17",
+            "CVG",
+            "MFG",
+            "",
+            0
+        ],
+        [
+            "50400-2026",
+            "RAD MFG | CSAFE Battery Cage | PO# MON1-PO-000431 | 3 sets",
+            24138.0,
+            "2026-03-27",
+            "CVG",
+            "MFG",
+            "",
+            0
+        ],
+        [
+            "50406-2026",
+            "RAD MFG | CSAFE Battery Cage | PO# MON1-PO-000430 | 1 set",
+            8179.6,
+            "2026-03-30",
+            "CVG",
+            "MFG",
+            "",
+            0
+        ]
+    ]
+}

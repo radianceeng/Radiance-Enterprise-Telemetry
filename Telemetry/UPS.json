@@ -1,0 +1,1006 @@
+{
+    "schema_version": "1.0",
+    "customer": "UPS",
+    "fields": [
+        "invoice",
+        "description",
+        "amount",
+        "invoice_date",
+        "location",
+        "category",
+        "product",
+        "repair_quantity"
+    ],
+    "records": [
+        [
+            "50118-2026",
+            "UPS Containers Week ending 4 JANTake 1(LB 5, ONT 0, SDF20 , MIA 0)",
+            10741.617,
+            "2026-01-04",
+            "SDF",
+            "Repairs",
+            "",
+            0
+        ],
+        [
+            "50118-2026",
+            "UPS Containers Week ending 4 JANTake 1(LB 5, ONT 0, SDF20 , MIA 0)",
+            1193.513,
+            "2026-01-04",
+            "LAX",
+            "Repairs",
+            "",
+            0
+        ],
+        [
+            "50119-2026",
+            "UPS Pallets Week ending 4 JAN (LB , ONT 0, SDF , MIA 36 )",
+            5422.5,
+            "2026-01-04",
+            "MIA",
+            "Repairs",
+            "",
+            0
+        ],
+        [
+            "50126-2026",
+            "UPS Nets Week ending 11 Jan(LB 46, ONT 0, SDF 0, MIA 0)",
+            3703.5,
+            "2026-01-11",
+            "LAX",
+            "Repairs",
+            "",
+            0
+        ],
+        [
+            "50127-2026",
+            "UPS Containers Week ending 11 JANTake 1(LB27 , ONT 0, SDF , MIA 9)",
+            15802.3425,
+            "2026-01-11",
+            "LAX",
+            "Repairs",
+            "",
+            0
+        ],
+        [
+            "50127-2026",
+            "UPS Containers Week ending 11 JANTake 1(LB27 , ONT 0, SDF , MIA 9)",
+            5658.9974999999995,
+            "2026-01-11",
+            "MIA",
+            "Repairs",
+            "",
+            0
+        ],
+        [
+            "50128-2026",
+            "UPS Containers Week ending 11 JANTake 1(LB , ONT 0, SDF50 , MIA )",
+            22531.25,
+            "2026-01-11",
+            "SDF",
+            "Repairs",
+            "",
+            0
+        ],
+        [
+            "50129-2026",
+            "UPS Containers Week ending 11 JANTake 1(LB , ONT 0, SDF51 , MIA )",
+            22981.88,
+            "2026-01-11",
+            "SDF",
+            "Repairs",
+            "",
+            0
+        ],
+        [
+            "50131-2026",
+            "UPS Pallets Week ending 11 JAN Take 1(LB , ONT 0, SDF , MIA 21 Pallets)",
+            3163.125,
+            "2026-01-11",
+            "MIA",
+            "Repairs",
+            "",
+            0
+        ],
+        [
+            "50133-2026",
+            "UPS Containers Week ending 11 JANTake 1(LB19 , ONT 0, SDF , MIA )",
+            11118.85,
+            "2026-01-11",
+            "LAX",
+            "Repairs",
+            "",
+            0
+        ],
+        [
+            "50134-2026",
+            "UPS Containers Week ending 11 JANTake 1(LB , ONT 0, SDF15 , MIA )",
+            6759.38,
+            "2026-01-11",
+            "SDF",
+            "Repairs",
+            "",
+            0
+        ],
+        [
+            "50153-2026",
+            "UPS Containers Week ending 16 JANTake 1(LB 7, ONT 0, SDF , MIA8 )",
+            3522.6,
+            "2026-01-16",
+            "LAX",
+            "Repairs",
+            "",
+            0
+        ],
+        [
+            "50153-2026",
+            "UPS Containers Week ending 16 JANTake 1(LB 7, ONT 0, SDF , MIA8 )",
+            4305.400000000001,
+            "2026-01-16",
+            "MIA",
+            "Repairs",
+            "",
+            0
+        ],
+        [
+            "50154-2026",
+            "UPS Containers Week ending 16 JANTake 1(LB , ONT 0, SDF48 , MIA )",
+            18300.53,
+            "2026-01-16",
+            "SDF",
+            "Repairs",
+            "",
+            0
+        ],
+        [
+            "50155-2026",
+            "UPS Containers Week ending 16 JANTake 1(LB , ONT 0, SDF 44, MIA )",
+            16698.88,
+            "2026-01-16",
+            "SDF",
+            "Repairs",
+            "",
+            0
+        ],
+        [
+            "50170-2026",
+            "UPS Containers Week ending 25 Jan Take 1(LB 14 , ONT 0, SDF 20 , MIA10 )",
+            3429.0,
+            "2026-01-25",
+            "SDF",
+            "Repairs",
+            "",
+            0
+        ],
+        [
+            "50170-2026",
+            "UPS Containers Week ending 25 Jan Take 1(LB 14 , ONT 0, SDF 20 , MIA10 )",
+            7160.5,
+            "2026-01-25",
+            "LAX",
+            "Repairs",
+            "",
+            0
+        ],
+        [
+            "50170-2026",
+            "UPS Containers Week ending 25 Jan Take 1(LB 14 , ONT 0, SDF 20 , MIA10 )",
+            5248.219999999999,
+            "2026-01-25",
+            "MIA",
+            "Repairs",
+            "",
+            0
+        ],
+        [
+            "50171-2026",
+            "UPS Containers Week ending 25 Jan Take 1(LB  , ONT 0, SDF 48 , MIA )",
+            21693.95,
+            "2026-01-25",
+            "SDF",
+            "Repairs",
+            "",
+            0
+        ],
+        [
+            "50174-2026",
+            "UPS Pallets Week ending 25 JANT (LB , ONT 0, SDF , MIA 18)",
+            2711.25,
+            "2026-01-25",
+            "MIA",
+            "Repairs",
+            "",
+            0
+        ],
+        [
+            "50194-2026",
+            "UPS Containers Week ending 30 Jan Take 1(LB  , ONT 0, 60 SDF  , MIA )",
+            21551.48,
+            "2026-01-30",
+            "SDF",
+            "Repairs",
+            "",
+            0
+        ],
+        [
+            "50195-2026",
+            "UPS Containers Week ending 30 Jan Take 1(10LB  , ONT 0,  SDF  , 5MIA )",
+            5973.646,
+            "2026-01-30",
+            "LAX",
+            "Repairs",
+            "",
+            0
+        ],
+        [
+            "50195-2026",
+            "UPS Containers Week ending 30 Jan Take 1(10LB  , ONT 0,  SDF  , 5MIA )",
+            2560.134000000001,
+            "2026-01-30",
+            "MIA",
+            "Repairs",
+            "",
+            0
+        ],
+        [
+            "50201-2026",
+            "UPS Containers Week ending JAN 30 (LB , ONT 0, SDF , MIA 8 )",
+            4082.15,
+            "2026-01-30",
+            "MIA",
+            "Repairs",
+            "",
+            0
+        ],
+        [
+            "50207-2026",
+            "UPS scrapped units (LB34)",
+            7376.3,
+            "2026-02-06",
+            "LAX",
+            "Repairs",
+            "",
+            0
+        ],
+        [
+            "50208-2026",
+            "UPS Containers Week ending 6 JANTake 1(LB 26, ONT 0, SDF 36 , MIA 0)",
+            11317.069999999998,
+            "2026-02-06",
+            "SDF",
+            "Repairs",
+            "",
+            0
+        ],
+        [
+            "50208-2026",
+            "UPS Containers Week ending 6 JANTake 1(LB 26, ONT 0, SDF 36 , MIA 0)",
+            12110.28,
+            "2026-02-06",
+            "LAX",
+            "Repairs",
+            "",
+            0
+        ],
+        [
+            "50220-2026",
+            "UPS Containers Week ending 8 Feb Take 1(LB 3, ONT 0, SDF16  , MIA 9)",
+            5344.1021,
+            "2026-02-08",
+            "SDF",
+            "Repairs",
+            "",
+            0
+        ],
+        [
+            "50220-2026",
+            "UPS Containers Week ending 8 Feb Take 1(LB 3, ONT 0, SDF16  , MIA 9)",
+            1478.1558999999997,
+            "2026-02-08",
+            "LAX",
+            "Repairs",
+            "",
+            0
+        ],
+        [
+            "50220-2026",
+            "UPS Containers Week ending 8 Feb Take 1(LB 3, ONT 0, SDF16  , MIA 9)",
+            4548.1720000000005,
+            "2026-02-08",
+            "MIA",
+            "Repairs",
+            "",
+            0
+        ],
+        [
+            "50221-2026",
+            "UPS Containers Week ending 8 Feb Take SDF Net Repair QTY 54",
+            4449.18,
+            "2026-02-08",
+            "SDF",
+            "Repairs",
+            "",
+            0
+        ],
+        [
+            "50225-2026",
+            "UPS Containers Week ending 9Feb Take 1(LB , ONT 0, SDF 16  , MIA 5)",
+            6401.8640000000005,
+            "2026-02-09",
+            "SDF",
+            "Repairs",
+            "",
+            0
+        ],
+        [
+            "50225-2026",
+            "UPS Containers Week ending 9Feb Take 1(LB , ONT 0, SDF 16  , MIA 5)",
+            1600.4660000000001,
+            "2026-02-09",
+            "MIA",
+            "Repairs",
+            "",
+            0
+        ],
+        [
+            "50231-2026",
+            "UPS Nets qty 148 weekending 15-Feb",
+            12462.12,
+            "2026-02-13",
+            "LAX",
+            "Repairs",
+            "",
+            0
+        ],
+        [
+            "50235-2026",
+            "UPS Containers Week ending 11Feb Take 1(LB , ONT 13, SDF 29 , MIA5 )",
+            9822.0,
+            "2026-02-11",
+            "SDF",
+            "Repairs",
+            "",
+            0
+        ],
+        [
+            "50235-2026",
+            "UPS Containers Week ending 11Feb Take 1(LB , ONT 13, SDF 29 , MIA5 )",
+            4849.0,
+            "2026-02-11",
+            "LAX",
+            "Repairs",
+            "",
+            0
+        ],
+        [
+            "50235-2026",
+            "UPS Containers Week ending 11Feb Take 1(LB , ONT 13, SDF 29 , MIA5 )",
+            2506.8300000000017,
+            "2026-02-11",
+            "MIA",
+            "Repairs",
+            "",
+            0
+        ],
+        [
+            "50243-2026",
+            "UPS Containers Week ending 12Feb Take 1(LB , ONT 0, SDF 16  , MIA )",
+            6138.8,
+            "2026-02-12",
+            "SDF",
+            "Repairs",
+            "",
+            0
+        ],
+        [
+            "50250-2026",
+            "UPS Containers Week ending 13Feb Take 1(LB 12, ONT 5, SDF12   , MIA5 )",
+            4091.0,
+            "2026-02-13",
+            "SDF",
+            "Repairs",
+            "",
+            0
+        ],
+        [
+            "50250-2026",
+            "UPS Containers Week ending 13Feb Take 1(LB 12, ONT 5, SDF 12  , MIA5 )",
+            1889.0,
+            "2026-02-13",
+            "LAX",
+            "Repairs",
+            "",
+            0
+        ],
+        [
+            "50250-2026",
+            "UPS Containers Week ending 13Feb Take 1(LB 12, ONT 5, SDF12   , MIA5 )",
+            2582.3899999999994,
+            "2026-02-13",
+            "MIA",
+            "Repairs",
+            "",
+            0
+        ],
+        [
+            "50252-2026",
+            "UPS Containers Week ending 16Feb Take 1(LB , ONT , SDF8   , MIA )",
+            2652.25,
+            "2026-02-13",
+            "SDF",
+            "Repairs",
+            "",
+            0
+        ],
+        [
+            "50263-2026",
+            "UPS Containers Week ending 17Feb Take 1(LB , ONT , SDF24   , MIA10 )",
+            8332.0,
+            "2026-02-17",
+            "SDF",
+            "Repairs",
+            "",
+            0
+        ],
+        [
+            "50263-2026",
+            "UPS Containers Week ending 17Feb Take 1(LB , ONT , SDF24   , MIA10 )",
+            5143.75,
+            "2026-02-17",
+            "MIA",
+            "Repairs",
+            "",
+            0
+        ],
+        [
+            "50274-2026",
+            "UPS Nets qty 129 weekending 19-Feb",
+            10628.55,
+            "2026-02-19",
+            "LAX",
+            "Repairs",
+            "",
+            0
+        ],
+        [
+            "50277-2026",
+            "UPS Containers Week ending 20Feb Take 1(LB , ONT , SDF28  , MIA )",
+            9769.55,
+            "2026-02-20",
+            "SDF",
+            "Repairs",
+            "",
+            0
+        ],
+        [
+            "50278-2026",
+            "UPS Containers Week ending 20Feb Take 1( SDF  NET )",
+            1563.26,
+            "2026-02-20",
+            "SDF",
+            "Repairs",
+            "",
+            0
+        ],
+        [
+            "50284-2026",
+            "UPS Nets Week ending 24Feb Take 1( LB  NET 52qty )",
+            4289.48,
+            "2026-02-24",
+            "LAX",
+            "Repairs",
+            "",
+            0
+        ],
+        [
+            "50288-2026",
+            "UPS Containers SDF 38 scrap units (ADA)",
+            5700.0,
+            "2026-02-24",
+            "SDF",
+            "Repairs",
+            "",
+            0
+        ],
+        [
+            "50289-2026",
+            "UPS Containers Week ending 24Feb Take 1(LB5, ONT7 , SDF 12  , MIA4 )",
+            4223.0,
+            "2026-02-24",
+            "SDF",
+            "Repairs",
+            "",
+            0
+        ],
+        [
+            "50289-2026",
+            "UPS Containers Week ending 24Feb Take 1(LB5, ONT7 , SDF 12  , MIA4 )",
+            5129.5,
+            "2026-02-24",
+            "LAX",
+            "Repairs",
+            "",
+            0
+        ],
+        [
+            "50289-2026",
+            "UPS Containers Week ending 24Feb Take 1(LB5, ONT7 , SDF 12  , MIA4 )",
+            2042.9099999999999,
+            "2026-02-24",
+            "MIA",
+            "Repairs",
+            "",
+            0
+        ],
+        [
+            "50290-2026",
+            "UPS Containers LB 6 scrap units (ADA)",
+            1301.7,
+            "2026-03-01",
+            "LAX",
+            "Repairs",
+            "",
+            0
+        ],
+        [
+            "50291-2026",
+            "UPS Containers Week ending 25Feb Take 1(LB, ONT , SDF 16  , MIA10)",
+            6450.683999999999,
+            "2026-02-25",
+            "SDF",
+            "Repairs",
+            "",
+            0
+        ],
+        [
+            "50291-2026",
+            "UPS Containers Week ending 25Feb Take 1(LB, ONT , SDF 16  , MIA10)",
+            4300.456,
+            "2026-02-25",
+            "MIA",
+            "Repairs",
+            "",
+            0
+        ],
+        [
+            "50293-2026",
+            "UPS Containers Week ending MAR 1Take 1(LB, ONT 14 , SDF 12  , MIA )",
+            4770.575,
+            "2026-02-27",
+            "SDF",
+            "Repairs",
+            "",
+            0
+        ],
+        [
+            "50293-2026",
+            "UPS Containers Week ending MAR 1Take 1(LB, ONT 14 , SDF 12  , MIA )",
+            4770.575,
+            "2026-02-27",
+            "LAX",
+            "Repairs",
+            "",
+            0
+        ],
+        [
+            "50294-2026",
+            "UPS Pallets Week ending MAR 1Take 1(LB, ONT , SDF  , MIA 12 pallets  )",
+            1653.0,
+            "2026-02-27",
+            "MIA",
+            "Repairs",
+            "",
+            0
+        ],
+        [
+            "50301-2026",
+            "UPS Containers Week ending Feb22 Take 1(LB16,(Units which were missed to invoice in February.)",
+            7748.4,
+            "2026-03-08",
+            "LAX",
+            "Repairs",
+            "",
+            0
+        ],
+        [
+            "50319-2026",
+            "UPS Containers Week ending MAR 08Take 1(LB5 , ONT 0, SDF 7 , MIA5 )",
+            3758.985,
+            "2026-03-02",
+            "SDF",
+            "Repairs",
+            "",
+            0
+        ],
+        [
+            "50319-2026",
+            "UPS Containers Week ending MAR 08Take 1(LB5 , ONT 0, SDF 7 , MIA5 )",
+            3758.985,
+            "2026-03-02",
+            "MIA",
+            "Repairs",
+            "",
+            0
+        ],
+        [
+            "50321-2026",
+            "UPS Pallets Week ending MAR 08Take ( MIA Pallets 23  )",
+            3464.38,
+            "2026-03-08",
+            "MIA",
+            "Repairs",
+            "",
+            0
+        ],
+        [
+            "50322-2026",
+            "UPS Containers Week ending MAR 08Take 1(LB 5 , ONT 3, SDF 12, MIA 14)",
+            5242.933499999999,
+            "2026-03-08",
+            "SDF",
+            "Repairs",
+            "",
+            0
+        ],
+        [
+            "50322-2026",
+            "UPS Containers Week ending MAR 08Take 1(LB 5 , ONT 3, SDF 12, MIA 14)",
+            5991.924,
+            "2026-03-08",
+            "MIA",
+            "Repairs",
+            "",
+            0
+        ],
+        [
+            "50322-2026",
+            "UPS Containers Week ending MAR 08Take 1(LB 5 , ONT 3, SDF 12, MIA 14)",
+            3744.9525,
+            "2026-03-08",
+            "LAX",
+            "Repairs",
+            "",
+            0
+        ],
+        [
+            "50327-2026",
+            "UPS Containers Week ending MAR 08Take 1(LB 5 , ONT 6 , SDF 16 , MIA 5)",
+            9064.411999999998,
+            "2026-03-05",
+            "SDF",
+            "Repairs",
+            "",
+            0
+        ],
+        [
+            "50327-2026",
+            "UPS Containers Week ending MAR 08Take 1(LB 5 , ONT 6 , SDF 16 , MIA 5)",
+            2589.8320000000003,
+            "2026-03-05",
+            "MIA",
+            "Repairs",
+            "",
+            0
+        ],
+        [
+            "50327-2026",
+            "UPS Containers Week ending MAR 08Take 1(LB 5 , ONT 6 , SDF 16 , MIA 5)",
+            1294.9160000000002,
+            "2026-03-05",
+            "LAX",
+            "Repairs",
+            "",
+            0
+        ],
+        [
+            "50328-2026",
+            "UPS Nets (LB 72 Satco)",
+            5922.52,
+            "2026-03-05",
+            "LAX",
+            "Repairs",
+            "",
+            0
+        ],
+        [
+            "50331-2026",
+            "UPS Containers Week ending MAR 15Take 1(LB   , ONT5 , SDF23 , MIA 0)",
+            13921.452000000001,
+            "2026-03-08",
+            "SDF",
+            "Repairs",
+            "",
+            0
+        ],
+        [
+            "50331-2026",
+            "UPS Containers Week ending MAR 15Take 1(LB   , ONT5 , SDF23 , MIA 0)",
+            1546.8280000000002,
+            "2026-03-08",
+            "LAX",
+            "Repairs",
+            "",
+            0
+        ],
+        [
+            "50332-2026",
+            "UPS PalletsWeek ending MAR 15Take 1( SDF 24 Pallets)",
+            3090.0,
+            "2026-03-15",
+            "SDF",
+            "Repairs",
+            "",
+            0
+        ],
+        [
+            "50333-2026",
+            "UPS PalletsWeek ending MAR 15Take 1((LB  3 , ONT6 , SDf 8 , MIA 0)",
+            2953.0755000000004,
+            "2026-03-15",
+            "SDF",
+            "Repairs",
+            "",
+            0
+        ],
+        [
+            "50333-2026",
+            "UPS PalletsWeek ending MAR 15Take 1((LB  3 , ONT6 , SDf 8 , MIA 0)",
+            3609.3145000000004,
+            "2026-03-15",
+            "LAX",
+            "Repairs",
+            "",
+            0
+        ],
+        [
+            "50341-2026",
+            "RAD MRO | UPS conatiners Week ending MAR 15Take 1((LB 5 , ONT3 , SDf 8 , MIA 5)",
+            3555.1480000000006,
+            "2026-03-15",
+            "SDF",
+            "Repairs",
+            "",
+            0
+        ],
+        [
+            "50341-2026",
+            "RAD MRO | UPS conatiners Week ending MAR 15Take 1((LB 5 , ONT3 , SDf 8 , MIA 5)",
+            3555.1480000000006,
+            "2026-03-15",
+            "LAX",
+            "Repairs",
+            "",
+            0
+        ],
+        [
+            "50341-2026",
+            "RAD MRO | UPS conatiners Week ending MAR 15Take 1((LB 5 , ONT3 , SDf 8 , MIA 5)",
+            1777.5740000000003,
+            "2026-03-15",
+            "MIA",
+            "Repairs",
+            "",
+            0
+        ],
+        [
+            "50357-2026",
+            "RAD MRO | UPS Containers Week ending MAR 15Take 1(LB , ONT 7, SDF 20 , MIA10 ) sent as 50337",
+            8203.3435,
+            "2026-03-15",
+            "SDF",
+            "Repairs",
+            "",
+            0
+        ],
+        [
+            "50357-2026",
+            "RAD MRO | UPS Containers Week ending MAR 15Take 1(LB , ONT 7, SDF 20 , MIA10 ) sent as 50337",
+            2983.034,
+            "2026-03-15",
+            "LAX",
+            "Repairs",
+            "",
+            0
+        ],
+        [
+            "50357-2026",
+            "RAD MRO | UPS Containers Week ending MAR 15Take 1(LB , ONT 7, SDF 20 , MIA10 ) sent as 50337",
+            3728.7925,
+            "2026-03-15",
+            "MIA",
+            "Repairs",
+            "",
+            0
+        ],
+        [
+            "50358-2026",
+            "RAD MRO | UPS Nets qty 71 weekending 15-Mar long beach  ",
+            5839.77,
+            "2026-03-15",
+            "LAX",
+            "Repairs",
+            "",
+            0
+        ],
+        [
+            "50364-2026",
+            "RAD MRO | UPS Containers Week ending MAR 22Take 1(LB  0 , ONT 12 , SDF 36 , MIA 5 )",
+            14018.045999999998,
+            "2026-03-18",
+            "SDF",
+            "Repairs",
+            "",
+            0
+        ],
+        [
+            "50364-2026",
+            "RAD MRO | UPS Containers Week ending MAR 22Take 1(LB  0 , ONT 12 , SDF 36 , MIA 5 )",
+            4005.156,
+            "2026-03-18",
+            "LAX",
+            "Repairs",
+            "",
+            0
+        ],
+        [
+            "50364-2026",
+            "RAD MRO | UPS Containers Week ending MAR 22Take 1(LB  0 , ONT 12 , SDF 36 , MIA 5 )",
+            2002.578,
+            "2026-03-18",
+            "MIA",
+            "Repairs",
+            "",
+            0
+        ],
+        [
+            "50379-2026",
+            "UPS Containers Week ending MAR 22Take 1(LB  3 , ONT9  , SDF 20 MIA 15)",
+            8462.420399999999,
+            "2026-03-20",
+            "SDF",
+            "Repairs",
+            "",
+            0
+        ],
+        [
+            "50379-2026",
+            "UPS Containers Week ending MAR 22Take 1(LB  3 , ONT9  , SDF 20 MIA 15)",
+            4634.182600000001,
+            "2026-03-20",
+            "LAX",
+            "Repairs",
+            "",
+            0
+        ],
+        [
+            "50379-2026",
+            "UPS Containers Week ending MAR 22Take 1(LB  3 , ONT9  , SDF 20 MIA 15)",
+            7052.016999999999,
+            "2026-03-20",
+            "MIA",
+            "Repairs",
+            "",
+            0
+        ],
+        [
+            "50386-2026",
+            "UPS Nets (LB 88)",
+            7237.67,
+            "2026-03-22",
+            "LAX",
+            "Repairs",
+            "",
+            0
+        ],
+        [
+            "50390-2026",
+            "UPS Containers Week ending MAR 29Take 1(LB 0  , ONT 2 , SDF24 , MIA 15 )",
+            8665.31,
+            "2026-03-29",
+            "SDF",
+            "Repairs",
+            "",
+            0
+        ],
+        [
+            "50390-2026",
+            "UPS Containers Week ending MAR 29Take 1(LB 0  , ONT 2 , SDF24 , MIA 15 )",
+            693.2248,
+            "2026-03-29",
+            "LAX",
+            "Repairs",
+            "",
+            0
+        ],
+        [
+            "50390-2026",
+            "UPS Containers Week ending MAR 29Take 1(LB 0  , ONT 2 , SDF24 , MIA 15 )",
+            7972.0851999999995,
+            "2026-03-29",
+            "MIA",
+            "Repairs",
+            "",
+            0
+        ],
+        [
+            "50392-2026",
+            "UPS Nets delivered 3/25 (LB 50)",
+            4112.78,
+            "2026-03-29",
+            "LAX",
+            "Repairs",
+            "",
+            0
+        ],
+        [
+            "50399-2026",
+            "UPS Containers Week ending MAR 29 Take 2(LB 10 , ONT 0 , SDF 24 , MIA 4 )",
+            11119.332,
+            "2026-03-29",
+            "SDF",
+            "Repairs",
+            "",
+            0
+        ],
+        [
+            "50399-2026",
+            "UPS Containers Week ending MAR 29 Take 2(LB 10 , ONT 0 , SDF 24 , MIA 4 )",
+            2462.5199999999995,
+            "2026-03-29",
+            "LAX",
+            "Repairs",
+            "",
+            0
+        ],
+        [
+            "50399-2026",
+            "UPS Containers Week ending MAR 29 Take 2(LB 10 , ONT 0 , SDF 24 , MIA 4 )",
+            2302.9080000000004,
+            "2026-03-29",
+            "MIA",
+            "Repairs",
+            "",
+            0
+        ],
+        [
+            "50404-2026",
+            "UPS Containers Week ending MAR 29 Take 2(LB4  , ONT 0 , SDF 14, MIA 0)",
+            5343.135,
+            "2026-03-29",
+            "SDF",
+            "Repairs",
+            "",
+            0
+        ],
+        [
+            "50404-2026",
+            "UPS Containers Week ending MAR 29 Take 2(LB4  , ONT 0 , SDF 14, MIA 0)",
+            1781.045,
+            "2026-03-29",
+            "LAX",
+            "Repairs",
+            "",
+            0
+        ],
+        [
+            "50405-2026",
+            "UPS Containers Week ending MAR 29 Take 2(Pallets , LB 16, MIA 17 )",
+            2189.0835,
+            "2026-03-29",
+            "LAX",
+            "Repairs",
+            "",
+            0
+        ],
+        [
+            "50405-2026",
+            "UPS Containers Week ending MAR 29 Take 2(Pallets , LB 16, MIA 17 )",
+            2675.5465000000004,
+            "2026-03-29",
+            "MIA",
+            "Repairs",
+            "",
+            0
+        ]
+    ]
+}

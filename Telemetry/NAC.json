@@ -1,0 +1,86 @@
+{
+    "schema_version": "1.0",
+    "customer": "NAC",
+    "fields": [
+        "invoice",
+        "description",
+        "amount",
+        "invoice_date",
+        "location",
+        "category",
+        "product",
+        "repair_quantity"
+    ],
+    "records": [
+        [
+            "50217-2026",
+            "NAC Net Repair qty 12",
+            4200.0,
+            "2026-02-25",
+            "LAX",
+            "Repairs",
+            "Nets",
+            12
+        ],
+        [
+            "50270-2026",
+            "ULDM INV#24000900, Cust. PO-1082649",
+            6757.9,
+            "2026-02-19",
+            "LAX",
+            "Distribution",
+            "",
+            0
+        ],
+        [
+            "50271-2026",
+            "ULDM INV#24000901, Cust. PO-1082684",
+            950.0,
+            "2026-02-19",
+            "LAX",
+            "Distribution",
+            "",
+            0
+        ],
+        [
+            "50272-2026",
+            "ULDM INV#24000902, Cust. PO-1082690",
+            3278.0,
+            "2026-02-19",
+            "LAX",
+            "Distribution",
+            "",
+            0
+        ],
+        [
+            "50275-2026",
+            "ULDM INV#24000903, Cust. PO-1082705 & 1082716",
+            3487.45,
+            "2026-02-20",
+            "LAX",
+            "Distribution",
+            "",
+            0
+        ],
+        [
+            "50276-2026",
+            "ULDM INV#24000904, Cust. PO-1082649",
+            13515.8,
+            "2026-02-20",
+            "LAX",
+            "Distribution",
+            "",
+            0
+        ],
+        [
+            "50398-2026",
+            "ULDM INV#24000959, Cust. PO-1082668",
+            15861.9,
+            "2026-03-26",
+            "LAX",
+            "Distribution",
+            "",
+            0
+        ]
+    ]
+}

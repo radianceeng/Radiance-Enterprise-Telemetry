@@ -1,0 +1,96 @@
+{
+    "schema_version": "1.0",
+    "customer": "DHL",
+    "fields": [
+        "invoice",
+        "description",
+        "amount",
+        "invoice_date",
+        "location",
+        "category",
+        "product",
+        "repair_quantity"
+    ],
+    "records": [
+        [
+            "50111-2026",
+            "DHL Nov Invoice (qty 20 ULDs and 0 Pallets)",
+            2750.0,
+            "2025-01-01",
+            "QRO",
+            "Non-Repairs",
+            " ",
+            0
+        ],
+        [
+            "50111-2026",
+            "DHL Nov Invoice (qty 20 ULDs and 0 Pallets)",
+            13287.85,
+            "2025-01-01",
+            "QRO",
+            "Repairs",
+            "Containers",
+            20
+        ],
+        [
+            "nan",
+            "DHL Jan Invoice (qty 15 ULDs and 3 Pallets)",
+            2750.0,
+            "2026-02-01",
+            "QRO",
+            "Non-Repairs",
+            "",
+            0
+        ],
+        [
+            "50219-2026",
+            "DHL Jan Invoice (qty 15 ULDs and 3 Pallets)",
+            252.27,
+            "2026-02-01",
+            "QRO",
+            "Repairs",
+            "Containers",
+            15
+        ],
+        [
+            "50219-2026",
+            "DHL Jan Invoice (qty 15 ULDs and 3 Pallets)",
+            7954.289999999999,
+            "2026-02-01",
+            "QRO",
+            "Repairs",
+            "Pallets",
+            3
+        ],
+        [
+            "50317-2026",
+            "DHL Feb Invoice (qty 31 ULDs and 1 Pallets)",
+            84.9,
+            "2026-03-01",
+            "QRO",
+            "Repairs",
+            "Pallet",
+            1
+        ],
+        [
+            "50317-2026",
+            "DHL Feb Invoice (qty 31 ULDs and 1 Pallets)",
+            2750.0,
+            "2026-03-01",
+            "QRO",
+            "Non-Repairs",
+            "",
+            0
+        ],
+        [
+            "50317-2026",
+            "DHL Feb Invoice (qty 31 ULDs and 1 Pallets)",
+            18848.8,
+            "2026-03-01",
+            "QRO",
+            "Repairs",
+            "Containers",
+            31
+        ]
+    ]
+}

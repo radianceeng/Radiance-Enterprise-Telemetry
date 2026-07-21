@@ -1,0 +1,36 @@
+{
+    "schema_version": "1.0",
+    "customer": "Aloha",
+    "fields": [
+        "invoice",
+        "description",
+        "amount",
+        "invoice_date",
+        "location",
+        "category",
+        "product",
+        "repair_quantity"
+    ],
+    "records": [
+        [
+            "50324-2026",
+            "ULDM INV#24000915, Cust. PO-1064836",
+            9622.64,
+            "2026-03-04",
+            "LAX",
+            "Distribution",
+            "",
+            0
+        ],
+        [
+            "50366-2026",
+            "ULDM INV#24000940, Cust. PO-1064836",
+            5287.76,
+            "2026-03-17",
+            "LAX",
+            "Distribution",
+            "",
+            0
+        ]
+    ]
+}

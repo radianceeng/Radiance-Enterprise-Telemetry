@@ -1,0 +1,56 @@
+{
+    "schema_version": "1.0",
+    "customer": "Chronos",
+    "fields": [
+        "invoice",
+        "description",
+        "amount",
+        "invoice_date",
+        "location",
+        "category",
+        "product",
+        "repair_quantity"
+    ],
+    "records": [
+        [
+            "50145-2026",
+            "ULDM INV#24000835, Cust. PO-CA7174",
+            1336.44,
+            "2026-01-14",
+            "LAX",
+            "Distribution",
+            "",
+            0
+        ],
+        [
+            "50191-2026",
+            "ULDM INV#24000858, Cust. PO-CA7516",
+            1904.0,
+            "2026-01-30",
+            "LAX",
+            "Distribution",
+            "",
+            0
+        ],
+        [
+            "50227-2026",
+            "ULDM INV#24000874, Cust. PO-CA7516",
+            2672.88,
+            "2026-02-06",
+            "LAX",
+            "Distribution",
+            "",
+            0
+        ],
+        [
+            "50325-2026",
+            "ULDM INV#24000916, Cust. PO-CA7516",
+            668.22,
+            "2026-03-04",
+            "LAX",
+            "Distribution",
+            "",
+            0
+        ]
+    ]
+}

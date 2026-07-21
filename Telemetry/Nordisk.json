@@ -1,0 +1,376 @@
+{
+    "schema_version": "1.0",
+    "customer": "Nordisk",
+    "fields": [
+        "invoice",
+        "description",
+        "amount",
+        "invoice_date",
+        "location",
+        "category",
+        "product",
+        "repair_quantity"
+    ],
+    "records": [
+        [
+            "50110-2026",
+            "Warehouse Management (Long Beach and Louisville)",
+            22500.0,
+            "2026-01-01",
+            "SDF",
+            "Non-Repairs",
+            "",
+            0
+        ],
+        [
+            "50122-2026",
+            "ULDM INV# 25000057 Cust. PO-3002474-1. Decals Order MFG",
+            550.0,
+            "2026-01-06",
+            "LAX",
+            "MFG",
+            "",
+            0
+        ],
+        [
+            "50123-2026",
+            "UPS Assy SO 3002682 SDF qty 100 (SO Complete)",
+            62500.0,
+            "2026-01-09",
+            "SDF",
+            "Non-Repairs",
+            "",
+            0
+        ],
+        [
+            "50124-2026",
+            "UPS Assy SO 3002682 SDF Door Assembly qty 100",
+            12000.0,
+            "2026-01-09",
+            "SDF",
+            "Non-Repairs",
+            "",
+            0
+        ],
+        [
+            "50125-2026",
+            "Jettainer PMCs qty 250 & Inlay Printing",
+            13750.0,
+            "2026-01-08",
+            "LAX",
+            "MFG",
+            "",
+            0
+        ],
+        [
+            "50151-2026",
+            "UPS Assy SO 3002685 SDF qty 120 (SO Complete)",
+            75000.0,
+            "2026-01-19",
+            "SDF",
+            "Non-Repairs",
+            "",
+            0
+        ],
+        [
+            "50152-2026",
+            "UPS Assy SO 3002685 SDF Door Assembly qty 100",
+            12000.0,
+            "2026-01-19",
+            "SDF",
+            "Non-Repairs",
+            "",
+            0
+        ],
+        [
+            "50158-2026",
+            "RAD LB Nordisk Lunch",
+            704.0,
+            "2026-02-20",
+            "LAX",
+            "Non-Repairs",
+            "",
+            0
+        ],
+        [
+            "50166-2026",
+            "UPS Assy SO 3002684 SDF qty 120 (SO Complete)",
+            75000.0,
+            "2026-01-23",
+            "SDF",
+            "Non-Repairs",
+            "",
+            0
+        ],
+        [
+            "50167-2026",
+            "UPS Assy SO 3002684 SDF Door Assembly qty 120 (void invoice, new invoice is 50188)",
+            0.0,
+            "2026-01-23",
+            "SDF",
+            "Non-Repairs",
+            "",
+            0
+        ],
+        [
+            "50168-2026",
+            "UPS Assy SO 3002679 LB qty 60 (SO Complete)",
+            38700.0,
+            "2026-01-23",
+            "LAX",
+            "Non-Repairs",
+            "",
+            0
+        ],
+        [
+            "50169-2026",
+            "UPS Assy SO 3002679 LB Door Assembly qty 60",
+            7200.0,
+            "2026-01-23",
+            "LAX",
+            "Non-Repairs",
+            "",
+            0
+        ],
+        [
+            "50175-2026",
+            "ULDM INV# 25000058 Cust. PO-3002532-1 Silicone Order MFG",
+            23.0,
+            "2026-02-09",
+            "LAX",
+            "MFG",
+            "",
+            0
+        ],
+        [
+            "50177-2026",
+            "RAD MFG | PO-3002533-1 | qty 50 of PN 802588 *moved to march 26 invoice 50376-2026*",
+            0.0,
+            "",
+            "LAX",
+            "MFG",
+            "",
+            0
+        ],
+        [
+            "50188-2026",
+            "UPS Assy SO 3002684 SDF Door Assembly qty 120",
+            14400.0,
+            "2026-01-23",
+            "SDF",
+            "Non-Repairs",
+            "",
+            0
+        ],
+        [
+            "50190-2026",
+            "UPS Assy SO 3002685 SDF Door Assembly qty 20",
+            2400.0,
+            "2026-01-19",
+            "SDF",
+            "Non-Repairs",
+            "",
+            0
+        ],
+        [
+            "50193-2026",
+            "Csafe Frames delivery (Front:8 & AFT: 8) POD 01272026",
+            1592.0,
+            "2026-01-27",
+            "CVG",
+            "MFG",
+            "",
+            0
+        ],
+        [
+            "50196-2026",
+            "Cert Preparation on behalf of Nordisk (17-Nov-25 to 15-Feb-26) ",
+            1116.5,
+            "2026-01-30",
+            "LAX",
+            "Non-Repairs",
+            "",
+            0
+        ],
+        [
+            "50218-2026",
+            "Warehouse Management (Long Beach and Louisville) sent as 50281-2026",
+            22500.0,
+            "2026-02-01",
+            "SDF",
+            "Non-Repairs",
+            "",
+            0
+        ],
+        [
+            "50224-2026",
+            "AQF Demo | AMAZON DQF PROTOTYPE",
+            2898.0,
+            "2026-02-20",
+            "LAX",
+            "Non-Repairs",
+            "",
+            0
+        ],
+        [
+            "50244-2026",
+            "ULDM INV# 25000059 Cust.  PO-3002539-1 Silicone Order MFG",
+            92.0,
+            "2026-02-13",
+            "LAX",
+            "MFG",
+            "",
+            0
+        ],
+        [
+            "50248-2026",
+            "UPS Assy SO 3002686 SDF qty 120 (SO Complete)",
+            75000.0,
+            "2026-02-13",
+            "SDF",
+            "Non-Repairs",
+            "",
+            0
+        ],
+        [
+            "50249-2026",
+            "UPS Assy SO 3002686 SDF Door Assembly qty 120",
+            14400.0,
+            "2026-02-13",
+            "SDF",
+            "Non-Repairs",
+            "",
+            0
+        ],
+        [
+            "50264-2026",
+            "NCR Rework Atlas Air - Nordisk",
+            1792.0,
+            "2026-02-18",
+            "LAX",
+            "Non-Repairs",
+            "",
+            0
+        ],
+        [
+            "50265-2026",
+            "UPS Assy SO 3002687 SDF qty 120 (SO Complete)",
+            75000.0,
+            "2026-02-18",
+            "SDF",
+            "Non-Repairs",
+            "",
+            0
+        ],
+        [
+            "50266-2026",
+            "UPS Assy SO 3002687 SDF Door Assembly qty 120",
+            14400.0,
+            "2026-02-18",
+            "SDF",
+            "Non-Repairs",
+            "",
+            0
+        ],
+        [
+            "50267-2026",
+            "ULDM INV# 25000060 Cust. PO-3002538-1. Decals Order MFG",
+            1800.0,
+            "2026-02-19",
+            "LAX",
+            "MFG",
+            "",
+            0
+        ],
+        [
+            "50273-2026",
+            "Atlas Air Assy qty 3 ",
+            2250.0,
+            "2026-02-13",
+            "LAX",
+            "Non-Repairs",
+            "",
+            0
+        ],
+        [
+            "50280-2026",
+            "Cert Preparation on behalf of Nordisk (week 5, 6, 7, 8) ",
+            2211.25,
+            "2026-02-20",
+            "LAX",
+            "Non-Repairs",
+            "",
+            0
+        ],
+        [
+            "50316-2026",
+            "Warehouse Management (Long Beach and Louisville)",
+            22500.0,
+            "2026-03-01",
+            "SDF",
+            "Non-Repairs",
+            "",
+            0
+        ],
+        [
+            "50320-2026",
+            "CSafe Pallet & AmSafe Net PO# - MON1-PO-001192",
+            85.0,
+            "2026-03-30",
+            "CVG",
+            "MFG",
+            "",
+            0
+        ],
+        [
+            "50363-2026",
+            "RAD MFG | ULDM INV# 25000062 Cust.  PO-3002546-1. Decals Order MFG",
+            4000.0,
+            "2026-03-16",
+            "LAX",
+            "MFG",
+            "",
+            0
+        ],
+        [
+            "50368-2026",
+            "RAD MFG |Csafe Frames delivery (Front:8 & AFT: 8) POD 03172026",
+            1592.0,
+            "2026-03-18",
+            "CVG",
+            "MFG",
+            "",
+            0
+        ],
+        [
+            "50376-2026",
+            "ULDM INV# 25000064 Cust. PO-3002533-1. Door Cover Order MFG",
+            3000.0,
+            "2026-03-31",
+            "LAX",
+            "MFG",
+            "",
+            0
+        ],
+        [
+            "50380-2026",
+            "RAD MFG | ULDM INV#25000012, Cust. PO-3002404",
+            744.0,
+            "2026-03-23",
+            "LAX",
+            "MFG",
+            "",
+            0
+        ],
+        [
+            "50407-2026",
+            "RAD CERT Prepartion March 2026",
+            1196.25,
+            "2026-03-31",
+            "LAX",
+            "Non-Repairs",
+            "",
+            0
+        ]
+    ]
+}

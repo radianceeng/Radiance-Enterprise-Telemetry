@@ -1,0 +1,26 @@
+{
+    "schema_version": "1.0",
+    "customer": "PrimeFlight-ILN",
+    "fields": [
+        "invoice",
+        "description",
+        "amount",
+        "invoice_date",
+        "location",
+        "category",
+        "product",
+        "repair_quantity"
+    ],
+    "records": [
+        [
+            "50150-2026",
+            "ULDM INV#24000839, Cust. PO-ILN12082025",
+            940.8,
+            "2026-01-16",
+            "LAX",
+            "Distribution",
+            "",
+            0
+        ]
+    ]
+}
